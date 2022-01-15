@@ -3,3 +3,24 @@
 Snehil Saluja (170707)
 
 Riya Banik (200809)
+Chinmay Joshi (200299)
+
+Pankaj bairwa (190585)
+
+Aman Kumar Singh (200100)
+
+Anupam Anand (200167)
+
+Tejas Uttam Warade(201136)
+
+Gaurav Sharma (200379)
+
+Himanshu (210438)
+
+Divyansh Patel(200353)
+ 
+ Nikhil Singh (200636)
+
+Devansh Singh (200319)
+
+Riya Banik (200809 )
