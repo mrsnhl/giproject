@@ -24,4 +24,6 @@ Devansh Singh (200319)
 
 Abhishek Sangwan(200021)
 
-Narendra Jugalkishor Prajapat (200623)
+Abhaya Pratap Singh (190019)
+
+Narendra Jugalkishor Prajapat(200623)
