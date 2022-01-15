@@ -2,7 +2,6 @@
 
 Snehil Saluja (170707)
 
-Riya Banik (200809)
 Chinmay Joshi (200299)
 
 Pankaj bairwa (190585)
