@@ -2,6 +2,7 @@
 
 Snehil Saluja (170707)
 
+Riya Banik (200809)
 Chinmay Joshi (200299)
 
 Pankaj bairwa (190585)
@@ -29,6 +30,8 @@ Abhaya Pratap Singh (190019)
 Narendra Jugalkishor Prajapat(200623)
 
 Farukh Khan(200362)
+
+Riya Banik (200809)
 
 Ayush Choudhary(200239)
 
