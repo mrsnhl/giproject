@@ -37,3 +37,5 @@ Ayush Choudhary(200239)
 Sarvagya Jain (200888)
 
 Anshul Agarwal(200152)
+
+Rohit Kumar Gupta(200816)
