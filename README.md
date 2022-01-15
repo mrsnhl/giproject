@@ -27,3 +27,5 @@ Abhishek Sangwan(200021)
 Abhaya Pratap Singh (190019)
 
 Narendra Jugalkishor Prajapat(200623)
+
+Farukh Khan(200362)
