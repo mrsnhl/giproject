@@ -29,3 +29,5 @@ Abhaya Pratap Singh (190019)
 Narendra Jugalkishor Prajapat(200623)
 
 Farukh Khan(200362)
+
+Ayush Choudhary(200239)
