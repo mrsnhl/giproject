@@ -89,12 +89,12 @@ change change
 
 - Kaushal Kumar Jha(200498) [My Resume](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)
 
-Yasvir Singh (201137 )
+- Yasvir Singh (201137 )
 
-Kumar Abhishek (200531)
+- Kumar Abhishek (200531)
 
-Sameer Khan (200853)
+- Sameer Khan (200853)
 
-Amit Kumar Yadav (190118)
+- Amit Kumar Yadav (190118)
 
 - Yuvraj Singh (201171)
