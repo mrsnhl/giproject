@@ -4,14 +4,17 @@ Snehil Saluja (170707)
 
 # Project Members
 
-- Chinmay Joshi (200299)
+- Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
 
-- Pankaj bairwa (190585)
+- Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
 - [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
 
 - Anupam Anand (200167)
   https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
+
+- [Anupam Anand (200167)]( https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing )
+
 - Tejas Uttam Warade(201136)
 
 - Vikas Varshney (201118)
@@ -27,9 +30,9 @@ Snehil Saluja (170707)
 
 - Devansh Singh (200319)
 
-- Abhishek Sangwan(200021)
+- Abhishek Sangwan(200021) Here is my [resume link](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)
 
-- Abhaya Pratap Singh (190019)
+- [Abhaya Pratap Singh (190019)] (https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
 
 - Narendra Jugalkishor Prajapat(200623)
 
@@ -39,7 +42,8 @@ Snehil Saluja (170707)
 
 - Ayush Choudhary(200239)
 
-- Sarvagya Jain (200888) https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing
+- Sarvagya Jain (200888) 
+  [Resume Link](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)
 
 - Anshul Agarwal(200152)
 
@@ -51,7 +55,7 @@ Snehil Saluja (170707)
 
 - Chandan Singh Naruka(200290)
 
-- Prabhat Kumar Meena (200688)
+- Prabhat Kumar Meena (200688) | https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing
 
 - chandramani kumar (200292)
 
@@ -61,9 +65,11 @@ Snehil Saluja (170707)
 
 - Neeraj Pratap Singh (190542)
 
+- Riya Banik (200809) https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing
+
 - Sheshank (200930)
 
-- Ayush Agrawal (200236)
+- Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
 - Sahil Aggarwal (200835)
 
@@ -77,7 +83,7 @@ Snehil Saluja (170707)
 
 - Kumar Abhishek (200531)
 
-- Sameer Khan (200853)
+- Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
 
 - Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
 
