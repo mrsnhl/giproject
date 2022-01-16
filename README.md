@@ -12,6 +12,8 @@ Anupam Anand (200167)
 
 Tejas Uttam Warade(201136)
 
+Vikas Varshney (201118)
+
 Gaurav Sharma (200379)
 
 Himanshu (210438)
@@ -43,5 +45,3 @@ Yuvraj Mimrot (Zaki)(201170)
 Vijay kumar chauhan(190962)
 
 Mandvi Rajpoot (200557)
-
-Vikas Varshney (201118)
