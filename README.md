@@ -1,15 +1,19 @@
-# Project Mentor
+# GI Project
 
-Snehil Saluja (170707)
+## Project Mentor
 
-# Project Members
+<code><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="70"></code>
+
+**Snehil Saluja (170707)**
+
+## Project Members
 
 - Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
 
 - Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
-
-
+- [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
+  > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
 - Anupam Anand (200167)
   https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 
@@ -20,7 +24,6 @@ Snehil Saluja (170707)
   > I am Second year Undergraduate , IIT kanpur. I am pursuing Civil Engineering .
   > I Love to play Cricket,Watch movies,Coding and also love drawing .
   > Currrently I am Doing GI project .
-
 
 - Vikas Varshney (201118)
   { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
@@ -34,7 +37,6 @@ Snehil Saluja (170707)
 
 - Nikhil Singh (200636)
   (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
-
 
 - Devansh Singh (200319)
 
@@ -80,21 +82,18 @@ Snehil Saluja (170707)
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
-- Sahil Aggarwal (200835) [My resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)
+- Sahil Aggarwal (200835) Here is [My resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)
 
 - Rohit Kumar Gupta(200816)
 
-- Adheena Jose (200035)https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing
+- Kaushal Kumar Jha(200498) [My Resume](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)
 
-- Mridul Khare (190513)
-
-- Yasvir Singh (201137 ) https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing
+- Yasvir Singh (201137 )
 
 - Kumar Abhishek (200531)
 
-- Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
+- Sameer Khan (200853)
 
-- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
+- Amit Kumar Yadav (190118)
 
-- Upen Mishra (201063) https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing
-
+- Yuvraj Singh (201171)
