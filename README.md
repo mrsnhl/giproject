@@ -1,8 +1,12 @@
-# Project Mentor
+# GI Project
 
-Snehil Saluja (170707)
+## Project Mentor
 
-# Project Members
+<code><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="70"></code>
+
+**Snehil Saluja (170707)**
+
+## Project Members
 
 - Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
 
