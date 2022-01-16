@@ -53,11 +53,11 @@ Snehil Saluja (170707)
 
 - Vijay kumar chauhan(190962)
 
-- Mandvi Rajpoot (200557) https://drive.google.com/file/d/1PqsI74KCtEGDm0CZEEtwLK6gSKK_6p8o/view?usp=sharing
+- Mandvi Rajpoot (200557)
 
 - Chandan Singh Naruka(200290)
 
-- Prabhat Kumar Meena (200688) | <a href="(https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)">Resume Link </a>
+- Prabhat Kumar Meena (200688) | [Resume Link] (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
 - chandramani kumar (200292)
 
@@ -89,8 +89,4 @@ Snehil Saluja (170707)
 
 - Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
 
-- Upen Mishra (201063) -(https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing)
-
-
-
-
+- Upen Mishra (201063)
