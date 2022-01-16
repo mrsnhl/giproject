@@ -62,6 +62,10 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - [Yuvraj Mimrot(Zaki)(201170)](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
 
+Ayush Agrawal (200236)
+
+Nitin Jangir(190568)
+
 - Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
