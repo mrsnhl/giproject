@@ -1,8 +1,12 @@
-# Project Mentor
+# GI Project
 
-Snehil Saluja (170707)
+## Project Mentor
 
-# Project Members
+<code><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="70"></code>
+
+**Snehil Saluja (170707)**
+
+## Project Members
 
 - Chinmay Joshi (200299)
 
@@ -25,7 +29,7 @@ Snehil Saluja (170707)
 - Divyansh Patel(200353)[resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)
 
 - Nikhil Singh (200636)
- (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
+  (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
 
 
 - Devansh Singh (200319)
@@ -50,7 +54,7 @@ Snehil Saluja (170707)
 
 - [Yuvraj Mimrot(Zaki)(201170)](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
 
-- Vijay kumar chauhan(190962)
+- Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
 
@@ -72,7 +76,7 @@ Snehil Saluja (170707)
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
-- Sahil Aggarwal (200835) [My resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)
+- Sahil Aggarwal (200835) Here is [My resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)
 
 - Rohit Kumar Gupta(200816)
 
@@ -85,4 +89,3 @@ Kumar Abhishek (200531)
 Sameer Khan (200853)
 
 Amit Kumar Yadav (190118)
-
