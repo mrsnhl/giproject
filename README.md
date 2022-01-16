@@ -4,7 +4,7 @@ Snehil Saluja (170707)
 
 # Project Members
 
-- Chinmay Joshi (200299)
+- Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
 
 - Pankaj bairwa (190585)
 
