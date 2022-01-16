@@ -39,11 +39,11 @@ Snehil Saluja (170707)
 
 - [Abhaya Pratap Singh (190019)](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
 
-- Narendra Jugalkishor Prajapat(200623)   https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing
+- [Narendra Jugalkishor Prajapat(200623)]   https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing
 
 - Farukh Khan(200362)
 
-- Riya Banik (200809)
+- Riya Banik (200809) 
 
 - Ayush Choudhary(200239)
 
