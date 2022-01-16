@@ -13,9 +13,9 @@ Snehil Saluja (170707)
 - Anupam Anand (200167)
   https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 
-- [Anupam Anand (200167)]( https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing )
+- [Anupam Anand (200167)](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)
 
-- Tejas Uttam Warade(201136)
+- Tejas Uttam Warade(201136)[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
 
 - Vikas Varshney (201118)
   { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
@@ -43,7 +43,7 @@ Snehil Saluja (170707)
 
 - Ayush Choudhary(200239)
 
-- Sarvagya Jain (200888) 
+- Sarvagya Jain (200888)
   [Resume Link](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)
 
 - Anshul Agarwal(200152)
