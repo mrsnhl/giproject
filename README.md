@@ -8,7 +8,7 @@ Snehil Saluja (170707)
 
 - Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
-- Aman Kumar Singh (200100)
+- Aman Kumar Singh (200100)g
 
 - Anupam Anand (200167)
 
@@ -44,7 +44,7 @@ Snehil Saluja (170707)
 
 - Yuvraj Mimrot(Zaki)(201170)
 
-- Vijay kumar chauhan(190962)
+- Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
 
