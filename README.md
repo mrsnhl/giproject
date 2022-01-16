@@ -16,7 +16,11 @@ Snehil Saluja (170707)
 
 - [Anupam Anand (200167)](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)
 
-- Tejas Uttam Warade(201136)[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
+- Tejas Uttam Warade(201136) -[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
+
+  > I am Second year Undergraduate , IIT kanpur. I am pursuing Civil Engineering .
+  > I Love to play Cricket,Watch movies,Coding and also love drawing .
+  > Currrently I am Doing GI project .
 
 
 - Vikas Varshney (201118)
@@ -30,7 +34,7 @@ Snehil Saluja (170707)
 - Divyansh Patel(200353)[resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)
 
 - Nikhil Singh (200636)
- (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
+  (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
 
 
 - Devansh Singh (200319)
