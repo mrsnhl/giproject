@@ -8,7 +8,7 @@ Snehil Saluja (170707)
 
 - Pankaj bairwa (190585)
 
-- Aman Kumar Singh (200100)
+- [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
 
 - Anupam Anand (200167)
 
