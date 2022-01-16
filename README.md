@@ -11,7 +11,7 @@ Snehil Saluja (170707)
 - [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
 
 - Anupam Anand (200167)
-https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
+  https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 - Tejas Uttam Warade(201136)
 
 - Vikas Varshney (201118)
@@ -79,11 +79,6 @@ https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=shari
 
 - Sameer Khan (200853)
 
-- Amit Kumar Yadav (190118)
+- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
 
 - Upen Mishra (201063)
-
-
-
-
-
