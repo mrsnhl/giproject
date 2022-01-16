@@ -73,7 +73,7 @@ Snehil Saluja (170707)
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
-- Sahil Aggarwal (200835)
+- Sahil Aggarwal (200835) [My resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)
 
 - Rohit Kumar Gupta(200816)
 
