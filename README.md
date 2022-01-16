@@ -61,7 +61,7 @@ Snehil Saluja (170707)
 
 - Chandan Singh Naruka(200290)
 
-- Prabhat Kumar Meena (200688) | [Resume Link] (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
+- Prabhat Kumar Meena (200688) | [Resume Link](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
 - chandramani kumar (200292)
 
@@ -94,5 +94,3 @@ Snehil Saluja (170707)
 - Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
 
 - Upen Mishra (201063)
-
-- Saksham Goyal(190740) https://drive.google.com/file/d/1bZi0YvjTCHz4pupBsJds6zAVNmRJ1PNY/view?usp=sharing
