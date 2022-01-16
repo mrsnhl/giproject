@@ -60,7 +60,6 @@
 
 - [Yuvraj Mimrot(Zaki)(201170)](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
 
-
 - Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
