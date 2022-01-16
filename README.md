@@ -39,7 +39,8 @@ Snehil Saluja (170707)
 
 - Ayush Choudhary(200239)
 
-- Sarvagya Jain (200888) https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing
+- Sarvagya Jain (200888) 
+  [Resume Link](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)
 
 - Anshul Agarwal(200152)
 
