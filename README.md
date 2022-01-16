@@ -12,15 +12,15 @@ Snehil Saluja (170707)
 
 - Anupam Anand (200167)
 
-Tejas Uttam Warade(201136)
+- Tejas Uttam Warade(201136)
 
-Vikas Varshney (201118)
+- Vikas Varshney (201118)
 
-Gaurav Sharma (200379)
+- Gaurav Sharma (200379)
 
-Himanshu (210438)
+- Himanshu (210438)
 
-Divyansh Patel(200353)
+- Divyansh Patel(200353)
 
 Nikhil Singh (200636)
 
