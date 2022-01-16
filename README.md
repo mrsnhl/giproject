@@ -8,14 +8,16 @@ Snehil Saluja (170707)
 
 - Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
-- [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
+- [Aman Kumar Singh (200100](https://amanks-20.github.io/GI_Project_Resume/)
+
 
 - Anupam Anand (200167)
   https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 
-- [Anupam Anand (200167)]( https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing )
+- [Anupam Anand (200167)](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)
 
-- Tejas Uttam Warade(201136)
+- Tejas Uttam Warade(201136)[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
+
 
 - Vikas Varshney (201118)
   { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
@@ -28,6 +30,8 @@ Snehil Saluja (170707)
 - Divyansh Patel(200353)[resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)
 
 - Nikhil Singh (200636)
+ (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
+
 
 - Devansh Singh (200319)
 
@@ -43,20 +47,21 @@ Snehil Saluja (170707)
 
 - Ayush Choudhary(200239)
 
-- Sarvagya Jain (200888) 
+- Sarvagya Jain (200888)
+
   [Resume Link](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)
 
 - Anshul Agarwal(200152)
 
-- Yuvraj Mimrot(Zaki)(201170)
+- [Yuvraj Mimrot(Zaki)(201170)](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
 
 - Vijay kumar chauhan(190962)
 
-- Mandvi Rajpoot (200557)
+- Mandvi Rajpoot (200557) https://drive.google.com/file/d/1PqsI74KCtEGDm0CZEEtwLK6gSKK_6p8o/view?usp=sharing
 
 - Chandan Singh Naruka(200290)
 
-- [Prabhat Kumar Meena (200688)] | (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
+- Prabhat Kumar Meena (200688) | <a href="(https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)">Resume Link </a>
 
 - chandramani kumar (200292)
 
@@ -88,4 +93,8 @@ Snehil Saluja (170707)
 
 - Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
 
-- Upen Mishra (201063)
+- Upen Mishra (201063) -(https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing)
+
+
+
+
