@@ -32,7 +32,7 @@ Narendra Jugalkishor Prajapat(200623)
 
 Farukh Khan(200362)
 
-Riya Banik (200809)
+Riya Banik (200809) https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing
 
 Ayush Choudhary(200239)
 
