@@ -61,6 +61,8 @@ Snehil Saluja (170707)
 
 - Neeraj Pratap Singh (190542)
 
+- Riya Banik (200809) https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing
+
 - Sheshank (200930)
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
