@@ -28,6 +28,7 @@ Snehil Saluja (170707)
 - Divyansh Patel(200353)
 
 - Nikhil Singh (200636)
+ (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
 
 - Devansh Singh (200319)
 
