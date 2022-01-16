@@ -8,29 +8,35 @@
 
 ## Project Members
 
-- Chinmay Joshi (200299)
+- Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
 
-- Pankaj bairwa (190585)
+- Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
-- Aman Kumar Singh (200100)
-
+- [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
+  > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
 - Anupam Anand (200167)
+  https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 
-- Tejas Uttam Warade(201136)
+- [Anupam Anand (200167)](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)
+
+- Tejas Uttam Warade(201136) -[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
+
+  > I am Second year Undergraduate , IIT kanpur. I am pursuing Civil Engineering .
+  > I Love to play Cricket,Watch movies,Coding and also love drawing .
+  > Currrently I am Doing GI project .
 
 - Vikas Varshney (201118)
+  { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
 
 - Gaurav Sharma (200379)
 
 - Himanshu (210438)
-
-- Divyansh Patel(200353)
+  {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
 
 - Divyansh Patel(200353)[resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)
 
 - Nikhil Singh (200636)
   (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
-
 
 - Devansh Singh (200319)
 
