@@ -96,7 +96,6 @@ Snehil Saluja (170707)
 
 - Rohit Kumar Gupta(200816)
 
-<<<<<<< HEAD
 Kaushal Kumar Jha(200498)
 
 Yasvir Singh (201137 )
@@ -107,18 +106,3 @@ Sameer Khan (200853)
 
 Amit Kumar Yadav (190118)
 
-=======
-- Adheena Jose (200035)
-
-- Mridul Khare (190513)
-
-- Yasvir Singh (201137 ) https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing
-
-- Kumar Abhishek (200531)
-
-- Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
-
-- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
-
-- Upen Mishra (201063)
->>>>>>> 1973de6a29f5de282c8aca431c37e267b11ad665
