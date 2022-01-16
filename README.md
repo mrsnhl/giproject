@@ -8,13 +8,14 @@ Snehil Saluja (170707)
 
 - Pankaj bairwa (190585)
 
-- Aman Kumar Singh (200100)
+- [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
 
 - Anupam Anand (200167)
 https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 - Tejas Uttam Warade(201136)
 
 - Vikas Varshney (201118)
+  { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
 
 - Gaurav Sharma (200379)
 
