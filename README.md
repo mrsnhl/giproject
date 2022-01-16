@@ -71,5 +71,3 @@ Rohit Kumar Gupta(200816)
 Adheena Jose (200035)
 
 Mridul Khare (190513)
-mahaveer bana(190467) 
-https://drive.google.com/file/d/1QJM7MvKEM5WnEhPzbj1UYwx9M5MlMT7v/view?usp=sharing
