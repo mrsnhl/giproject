@@ -40,7 +40,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - Nikhil Singh (200636)
   (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
 
-- Devansh Singh (200319)
+- Devansh Singh (200319) [Resume](https://drive.google.com/file/d/1fPFgUAAfZsBgON3MA2myhk8ojRfUgt0n/view?usp=sharing)
 
 - Abhishek Sangwan(200021) Here is my [resume link](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)
 
