@@ -20,6 +20,7 @@ https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=shari
 - Gaurav Sharma (200379)
 
 - Himanshu (210438)
+  {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
 
 - Divyansh Patel(200353)
 
