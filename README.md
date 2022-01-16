@@ -63,7 +63,7 @@ Snehil Saluja (170707)
 
 - Sheshank (200930)
 
-- Ayush Agrawal (200236)
+- Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
 - Sahil Aggarwal (200835)
 
@@ -82,8 +82,3 @@ Snehil Saluja (170707)
 - Amit Kumar Yadav (190118)
 
 - Upen Mishra (201063)
-
-
-
-
-
