@@ -43,3 +43,5 @@ Yuvraj Mimrot (Zaki)(201170)
 Vijay kumar chauhan(190962)
 
 Mandvi Rajpoot (200557)
+
+Chandan Singh Naruka (200290)
