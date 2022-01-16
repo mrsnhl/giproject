@@ -93,4 +93,4 @@ Snehil Saluja (170707)
 
 - Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
 
-- Upen Mishra (201063)
+- Upen Mishra (201063) https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing
