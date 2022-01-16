@@ -19,7 +19,7 @@ Gaurav Sharma (200379)
 Himanshu (210438)
 
 Divyansh Patel(200353)
- 
+
 Nikhil Singh (200636)
 
 Devansh Singh (200319)
@@ -52,4 +52,21 @@ Prabhat Kumar Meena (200688)
 
 chandramani kumar (200292)
 
+
 Kumar Abhishek (200531)
+
+Shubham Kumar (200969)
+
+Neeraj Pratap Singh (190542)
+
+Sheshank (200930)
+
+Ayush Agrawal (200236)
+
+Sahil Aggarwal (200835)
+
+Rohit Kumar Gupta(200816)
+
+Adheena Jose (200035)
+
+Mridul Khare (190513)
