@@ -23,6 +23,7 @@ Snehil Saluja (170707)
 - Gaurav Sharma (200379)
 
 - Himanshu (210438)
+  {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
 
 - Divyansh Patel(200353)
 
