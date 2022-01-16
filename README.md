@@ -4,6 +4,7 @@ Snehil Saluja (170707)
 
 # Project Members
 
+<<<<<<< HEAD
 - Chinmay Joshi (200299)
 
 - Pankaj bairwa (190585)
@@ -21,57 +22,81 @@ Snehil Saluja (170707)
 - Himanshu (210438)
 
 - Divyansh Patel(200353)
+=======
+- Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
 
-Nikhil Singh (200636)
+- Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
-Devansh Singh (200319)
+- [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
 
-Abhishek Sangwan(200021)
+- Anupam Anand (200167)
+  https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 
-Abhaya Pratap Singh (190019)
+- [Anupam Anand (200167)](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)
 
-Narendra Jugalkishor Prajapat(200623)
+- Tejas Uttam Warade(201136)[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
 
-Farukh Khan(200362)
+- Vikas Varshney (201118)
+  { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
 
-Riya Banik (200809)
+- Gaurav Sharma (200379)
 
-Ayush Choudhary(200239)
+- Himanshu (210438)
+  {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
+>>>>>>> 1973de6a29f5de282c8aca431c37e267b11ad665
 
-Sarvagya Jain (200888)
+- Divyansh Patel(200353)
 
-Anshul Agarwal(200152)
+- Nikhil Singh (200636)
 
-Yuvraj Mimrot(Zaki)(201170)
+- Devansh Singh (200319)
 
-Vijay kumar chauhan(190962)
+- Abhishek Sangwan(200021) Here is my [resume link](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)
 
-Mandvi Rajpoot (200557)
+- [Abhaya Pratap Singh (190019)](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
 
-Chandan Singh Naruka(200290)
+- Narendra Jugalkishor Prajapat(200623)   https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing
 
-Prabhat Kumar Meena (200688)
+- Farukh Khan(200362)
 
-chandramani kumar (200292)
+- Riya Banik (200809)
 
-Saurabh Sahay (200904)
+- Ayush Choudhary(200239)
 
-Shubham Kumar (200969)
+- Sarvagya Jain (200888)
+  [Resume Link](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)
 
-Neeraj Pratap Singh (190542)
+- Anshul Agarwal(200152)
 
-Sheshank (200930)
+- Yuvraj Mimrot(Zaki)(201170)
 
-Ayush Agrawal (200236)
+- Vijay kumar chauhan(190962)
 
-Sahil Aggarwal (200835)
+- Mandvi Rajpoot (200557)
 
-Rohit Kumar Gupta(200816)
+- Chandan Singh Naruka(200290)
 
-Adheena Jose (200035)
+- [Prabhat Kumar Meena (200688)] (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
-Mridul Khare (190513)
+- chandramani kumar (200292)
 
+- Saurabh Sahay (200904)
+
+- Shubham Kumar (200969)
+
+- Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
+
+- Riya Banik (200809) https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing
+
+- Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
+
+- Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
+
+- Sahil Aggarwal (200835)
+
+- Rohit Kumar Gupta(200816)
+
+<<<<<<< HEAD
 Kaushal Kumar Jha(200498)
 
 Yasvir Singh (201137 )
@@ -82,3 +107,18 @@ Sameer Khan (200853)
 
 Amit Kumar Yadav (190118)
 
+=======
+- Adheena Jose (200035)
+
+- Mridul Khare (190513)
+
+- Yasvir Singh (201137 ) https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing
+
+- Kumar Abhishek (200531)
+
+- Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
+
+- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
+
+- Upen Mishra (201063)
+>>>>>>> 1973de6a29f5de282c8aca431c37e267b11ad665
