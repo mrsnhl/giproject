@@ -56,7 +56,7 @@ Snehil Saluja (170707)
 
 - Chandan Singh Naruka(200290)
 
-- [Prabhat Kumar Meena (200688)] | (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
+- [Prabhat Kumar Meena (200688)] (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
 - chandramani kumar (200292)
 
