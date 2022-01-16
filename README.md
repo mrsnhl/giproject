@@ -9,7 +9,7 @@ Snehil Saluja (170707)
 - Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
 - [Aman Kumar Singh (200100](https://amanks-20.github.io/GI_Project_Resume/)
- > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
+  > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
 
 - Anupam Anand (200167)
   https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
