@@ -1,6 +1,8 @@
-# Project Members
+# Project Mentor
 
 Snehil Saluja (170707)
+
+# Project Members
 
 Chinmay Joshi (200299)
 
