@@ -1,4 +1,6 @@
-# GI Project
+# Geoinformatics Project 2021
+
+This was created by students of Y19 and Y20 of Civil Engineering
 
 ## Project Mentor
 
@@ -14,7 +16,6 @@
 
 - [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
   > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
-
 - Anupam Anand (200167)
   https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 
@@ -26,9 +27,8 @@
   > I Love to play Cricket,Watch movies,Coding and also love drawing .
   > Currrently I am Doing GI project .
 
-
 - Vikas Varshney (201118)
-  { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
+  -[Resume link](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)
 
 - Gaurav Sharma (200379)
 
@@ -39,7 +39,6 @@
 
 - Nikhil Singh (200636)
   (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
-
 
 - Devansh Singh (200319)
 
@@ -64,6 +63,10 @@
 - [Yuvraj Mimrot(Zaki)(201170)](https://home.iitk.ac.in/~yuvrajm20/)
 > Sophomore , CE , IITK
 
+Ayush Agrawal (200236)
+
+Nitin Jangir(190568)
+
 - Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
@@ -80,6 +83,8 @@
 
 - Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
 
+- Mridul Khare (190513)
+
 - [Riya Banik (200809)] (https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)
 
 - Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
@@ -90,18 +95,14 @@
 
 - Rohit Kumar Gupta(200816)
 
-- Adheena Jose (200035)https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing
+- Kaushal Kumar Jha(200498) [My Resume](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)
 
-- Mridul Khare (190513)
-
-- Yasvir Singh (201137 ) https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing
+- Yasvir Singh (201137 )
 
 - Kumar Abhishek (200531)
 
-- Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
+- Sameer Khan (200853)
 
-- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/10B7Ng1Ku2o08PRO3S1sA7r1AwR0ashLD/view?usp=sharing)
+- Amit Kumar Yadav (190118)
 
-- Upen Mishra (201063) https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing
-
-- Saksham Goyal(190740) https://drive.google.com/file/d/1bZi0YvjTCHz4pupBsJds6zAVNmRJ1PNY/view?usp=sharing
+- Yuvraj Singh (201171)
