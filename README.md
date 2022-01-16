@@ -1,4 +1,6 @@
-# GI Project
+# Geoinformatics Project 2021
+
+This was created by students of Y19 and Y20 of Civil Engineering
 
 ## Project Mentor
 
