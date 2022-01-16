@@ -40,4 +40,4 @@ Anshul Agarwal(200152)
 
 Yuvraj Mimrot (Zaki)(201170)
 
-Vijay kumar chouhan(190962)
+Vijay kumar chauhan(190962)
