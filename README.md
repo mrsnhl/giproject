@@ -4,23 +4,23 @@ Snehil Saluja (170707)
 
 # Project Members
 
-Chinmay Joshi (200299)
+- Chinmay Joshi (200299)
 
-Pankaj bairwa (190585)
+- Pankaj bairwa (190585)
 
-Aman Kumar Singh (200100)
+- Aman Kumar Singh (200100)
 
-Anupam Anand (200167)
+- Anupam Anand (200167)
 
-Tejas Uttam Warade(201136)
+- Tejas Uttam Warade(201136)
 
-Vikas Varshney (201118)
+- Vikas Varshney (201118)
 
-Gaurav Sharma (200379)
+- Gaurav Sharma (200379)
 
-Himanshu (210438)
+- Himanshu (210438)
 
-Divyansh Patel(200353)
+- Divyansh Patel(200353)
 
 Nikhil Singh (200636)
 
@@ -71,4 +71,14 @@ Rohit Kumar Gupta(200816)
 Adheena Jose (200035)
 
 Mridul Khare (190513)
+
+Kaushal Kumar Jha(200498)
+
+Yasvir Singh (201137 )
+
+Kumar Abhishek (200531)
+
+Sameer Khan (200853)
+
+Amit Kumar Yadav (190118)
 
