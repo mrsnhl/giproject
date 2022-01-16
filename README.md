@@ -4,7 +4,6 @@ Snehil Saluja (170707)
 
 # Project Members
 
-<<<<<<< HEAD
 - Chinmay Joshi (200299)
 
 - Pankaj bairwa (190585)
@@ -22,30 +21,6 @@ Snehil Saluja (170707)
 - Himanshu (210438)
 
 - Divyansh Patel(200353)
-=======
-- Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
-
-- Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
-
-- [Aman Kumar Singh (200100](https://amanks-20.github.io/GI_Project_Resume/)
-
-
-- Anupam Anand (200167)
-  https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
-
-- [Anupam Anand (200167)](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)
-
-- Tejas Uttam Warade(201136)[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
-
-
-- Vikas Varshney (201118)
-  { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
-
-- Gaurav Sharma (200379)
-
-- Himanshu (210438)
-  {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
->>>>>>> 1973de6a29f5de282c8aca431c37e267b11ad665
 
 - Divyansh Patel(200353)[resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)
 
@@ -59,11 +34,11 @@ Snehil Saluja (170707)
 
 - [Abhaya Pratap Singh (190019)](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
 
-- Narendra Jugalkishor Prajapat(200623)   https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing
+- [Narendra Jugalkishor Prajapat(200623)](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)
 
 - Farukh Khan(200362)
 
-- Riya Banik (200809)
+- Riya Banik (200809) 
 
 - Ayush Choudhary(200239)
 
@@ -97,7 +72,7 @@ Snehil Saluja (170707)
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
-- Sahil Aggarwal (200835)
+- Sahil Aggarwal (200835) [My resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)
 
 - Rohit Kumar Gupta(200816)
 
