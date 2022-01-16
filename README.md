@@ -13,9 +13,9 @@ Snehil Saluja (170707)
 - Anupam Anand (200167)
   https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 
-- [Anupam Anand (200167)]( https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing )
+- [Anupam Anand (200167)](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)
 
-- Tejas Uttam Warade(201136)
+- Tejas Uttam Warade(201136)[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
 
 - Vikas Varshney (201118)
   { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
@@ -43,7 +43,7 @@ Snehil Saluja (170707)
 
 - Ayush Choudhary(200239)
 
-- Sarvagya Jain (200888) 
+- Sarvagya Jain (200888)
   [Resume Link](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)
 
 - Anshul Agarwal(200152)
@@ -56,7 +56,7 @@ Snehil Saluja (170707)
 
 - Chandan Singh Naruka(200290)
 
-- [Prabhat Kumar Meena (200688)] | (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
+- [Prabhat Kumar Meena (200688)] (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
 - chandramani kumar (200292)
 
@@ -68,7 +68,7 @@ Snehil Saluja (170707)
 
 - Riya Banik (200809) https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing
 
-- Sheshank (200930)
+- Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
