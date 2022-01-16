@@ -48,7 +48,7 @@ Snehil Saluja (170707)
 
 - Anshul Agarwal(200152)
 
-- Yuvraj Mimrot(Zaki)(201170)
+- [Yuvraj Mimrot(Zaki)(201170)](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
 
 - Vijay kumar chauhan(190962)
 
