@@ -39,11 +39,11 @@ Snehil Saluja (170707)
 
 - [Abhaya Pratap Singh (190019)](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
 
-- Narendra Jugalkishor Prajapat(200623)   https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing
+- [Narendra Jugalkishor Prajapat(200623)]   https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing
 
 - Farukh Khan(200362)
 
-- Riya Banik (200809)
+- Riya Banik (200809) 
 
 - Ayush Choudhary(200239)
 
@@ -63,7 +63,7 @@ Snehil Saluja (170707)
 
 - Prabhat Kumar Meena (200688) | [Resume Link](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
-- chandramani kumar (200292)
+- chandramani kumar (200292)   https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit
 
 - Saurabh Sahay (200904)
 
@@ -93,4 +93,4 @@ Snehil Saluja (170707)
 
 - Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
 
-- Upen Mishra (201063)
+- Upen Mishra (201063) https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing
