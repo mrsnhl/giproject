@@ -81,7 +81,7 @@ change change
 
 - Rohit Kumar Gupta(200816)
 
-Kaushal Kumar Jha(200498)
+- Kaushal Kumar Jha(200498) [My Resume](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)
 
 Yasvir Singh (201137 )
 
