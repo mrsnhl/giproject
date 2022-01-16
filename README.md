@@ -23,6 +23,7 @@ Snehil Saluja (170707)
 - Gaurav Sharma (200379)
 
 - Himanshu (210438)
+  {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
 
 - Divyansh Patel(200353)
 
@@ -34,7 +35,7 @@ Snehil Saluja (170707)
 
 - [Abhaya Pratap Singh (190019)](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
 
-- Narendra Jugalkishor Prajapat(200623)
+- Narendra Jugalkishor Prajapat(200623)   https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing
 
 - Farukh Khan(200362)
 
@@ -55,7 +56,7 @@ Snehil Saluja (170707)
 
 - Chandan Singh Naruka(200290)
 
-- Prabhat Kumar Meena (200688) | https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing
+- [Prabhat Kumar Meena (200688)] | (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
 - chandramani kumar (200292)   https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit
 
@@ -63,11 +64,11 @@ Snehil Saluja (170707)
 
 - Shubham Kumar (200969)
 
-- [Neeraj Pratap Singh (190542)](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
+- Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
 
 - Riya Banik (200809) https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing
 
-- Sheshank (200930)
+- Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
@@ -79,7 +80,7 @@ Snehil Saluja (170707)
 
 - Mridul Khare (190513)
 
-- Yasvir Singh (201137 )
+- Yasvir Singh (201137 ) https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing
 
 - Kumar Abhishek (200531)
 
