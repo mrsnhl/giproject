@@ -10,6 +10,9 @@ Snehil Saluja (170707)
 
 - [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
 
+- Anupam Anand (200167)
+  https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
+
 - [Anupam Anand (200167)]( https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing )
 
 - Tejas Uttam Warade(201136)
@@ -20,6 +23,7 @@ Snehil Saluja (170707)
 - Gaurav Sharma (200379)
 
 - Himanshu (210438)
+  {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
 
 - Divyansh Patel(200353)
 
@@ -29,9 +33,9 @@ Snehil Saluja (170707)
 
 - Abhishek Sangwan(200021) Here is my [resume link](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)
 
-- [Abhaya Pratap Singh (190019)] (https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
+- [Abhaya Pratap Singh (190019)](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
 
-- Narendra Jugalkishor Prajapat(200623)
+- Narendra Jugalkishor Prajapat(200623)   https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing
 
 - Farukh Khan(200362)
 
@@ -52,7 +56,7 @@ Snehil Saluja (170707)
 
 - Chandan Singh Naruka(200290)
 
-- Prabhat Kumar Meena (200688) | https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing
+- [Prabhat Kumar Meena (200688)] (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
 - chandramani kumar (200292)
 
@@ -60,11 +64,11 @@ Snehil Saluja (170707)
 
 - Shubham Kumar (200969)
 
-- Neeraj Pratap Singh (190542)
+- Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
 
 - Riya Banik (200809) https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing
 
-- Sheshank (200930)
+- Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
@@ -76,13 +80,13 @@ Snehil Saluja (170707)
 
 - Mridul Khare (190513)
 
-- Yasvir Singh (201137 )
+- Yasvir Singh (201137 ) https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing
 
 - Kumar Abhishek (200531)
 
 - Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
 
-- Amit Kumar Yadav (190118)
+- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
 
 - Upen Mishra (201063)
 
