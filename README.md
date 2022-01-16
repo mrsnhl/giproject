@@ -1,6 +1,8 @@
-# Project Members
+# Project Mentor
 
 Snehil Saluja (170707)
+
+# Project Members
 
 Chinmay Joshi (200299)
 
@@ -19,7 +21,7 @@ Gaurav Sharma (200379)
 Himanshu (210438)
 
 Divyansh Patel(200353)
- 
+
 Nikhil Singh (200636)
 
 Devansh Singh (200319)
@@ -40,7 +42,7 @@ Sarvagya Jain (200888)
 
 Anshul Agarwal(200152)
 
-Yuvraj Mimrot (Zaki)(201170)
+Yuvraj Mimrot(Zaki)(201170)
 
 Vijay kumar chauhan(190962)
 
@@ -51,6 +53,10 @@ Chandan Singh Naruka(200290)
 Prabhat Kumar Meena (200688)
 
 chandramani kumar (200292)
+
+Saurabh Sahay (200904)
+
+Shubham Kumar (200969)
 
 Neeraj Pratap Singh (190542)
 
@@ -68,4 +74,4 @@ Mridul Khare (190513)
 
 Yasvir Singh (201137 )
 
-Sameer Khan (200853)
+Kumar Abhishek (200531)
