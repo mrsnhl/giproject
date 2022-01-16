@@ -95,7 +95,7 @@ Snehil Saluja (170707)
 
 - Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
 
-- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
+- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/10B7Ng1Ku2o08PRO3S1sA7r1AwR0ashLD/view?usp=sharing)
 
 - Upen Mishra (201063) https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing
 
