@@ -10,8 +10,8 @@ Snehil Saluja (170707)
 
 - [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
 
-- Anupam Anand (200167)
-https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
+- [Anupam Anand (200167)]( https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing )
+
 - Tejas Uttam Warade(201136)
 
 - Vikas Varshney (201118)
@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=shari
 
 - Abhishek Sangwan(200021)
 
-- Abhaya Pratap Singh (190019)
+- Abhaya Pratap Singh (190019) https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing
 
 - Narendra Jugalkishor Prajapat(200623)
 
@@ -51,7 +51,7 @@ https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=shari
 
 - Chandan Singh Naruka(200290)
 
-- Prabhat Kumar Meena (200688)
+- Prabhat Kumar Meena (200688) | https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing
 
 - chandramani kumar (200292)
 
