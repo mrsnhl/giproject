@@ -19,7 +19,7 @@ Gaurav Sharma (200379)
 Himanshu (210438)
 
 Divyansh Patel(200353)
- 
+
 Nikhil Singh (200636)
 
 Devansh Singh (200319)
@@ -61,3 +61,5 @@ Ayush Agrawal (200236)
 Rohit Kumar Gupta(200816)
 
 Adheena Jose (200035)
+
+Mridul Khare (190513)
