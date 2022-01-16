@@ -28,7 +28,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
   > Currrently I am Doing GI project .
 
 - Vikas Varshney (201118)
-  { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
+  -[Resume link](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)
 
 - Gaurav Sharma (200379)
 
