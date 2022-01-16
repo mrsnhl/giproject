@@ -77,7 +77,7 @@ https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=shari
 
 - Kumar Abhishek (200531)
 
-- Sameer Khan (200853)
+- Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
 
 - Amit Kumar Yadav (190118)
 
