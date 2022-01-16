@@ -1,63 +1,93 @@
-# Project Members
+# Project Mentor
 
 Snehil Saluja (170707)
 
-Chinmay Joshi (200299)
+# Project Members
 
-Pankaj bairwa (190585)
+- Chinmay Joshi (200299)
 
-Aman Kumar Singh (200100)
+- Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
-Anupam Anand (200167)
+- [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
 
-Tejas Uttam Warade(201136)
+- [Anupam Anand (200167)]( https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing )
 
-Vikas Varshney (201118)
+- Tejas Uttam Warade(201136)
 
-Gaurav Sharma (200379)
+- Vikas Varshney (201118)
+  { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
 
-Himanshu (210438)
+- Gaurav Sharma (200379)
 
-Divyansh Patel(200353)
- 
-Nikhil Singh (200636)
+- Himanshu (210438)
 
-Devansh Singh (200319)
+- Divyansh Patel(200353)
 
-Abhishek Sangwan(200021)
+- Nikhil Singh (200636)
 
-Abhaya Pratap Singh (190019)
+- Devansh Singh (200319)
 
-Narendra Jugalkishor Prajapat(200623)
+- Abhishek Sangwan(200021)
 
-Farukh Khan(200362)
+- Abhaya Pratap Singh (190019) https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing
 
-Riya Banik (200809)
+- Narendra Jugalkishor Prajapat(200623)
 
-Ayush Choudhary(200239)
+- Farukh Khan(200362)
 
-Sarvagya Jain (200888)
+- Riya Banik (200809)
 
-Anshul Agarwal(200152)
+- Ayush Choudhary(200239)
 
-Yuvraj Mimrot (Zaki)(201170)
+- Sarvagya Jain (200888) https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing
 
+<<<<<<< HEAD
 Vijay chauhan(190962)
+=======
+- Anshul Agarwal(200152)
+>>>>>>> 618366da6f1275ae425d8fce1318f91367a1b4d4
 
-Mandvi Rajpoot (200557)
+- Yuvraj Mimrot(Zaki)(201170)
 
-Chandan Singh Naruka(200290)
+- Vijay kumar chauhan(190962)
 
-Prabhat Kumar Meena (200688)
+- Mandvi Rajpoot (200557)
 
-chandramani kumar (200292)
+- Chandan Singh Naruka(200290)
 
-Neeraj Pratap Singh (190542)
+- Prabhat Kumar Meena (200688)
 
-Sheshank (200930)
+- chandramani kumar (200292)
 
-Ayush Agrawal (200236)
+- Saurabh Sahay (200904)
 
-Rohit Kumar Gupta(200816)
+- Shubham Kumar (200969)
 
-Adheena Jose (200035)
+- Neeraj Pratap Singh (190542)
+
+- Sheshank (200930)
+
+- Ayush Agrawal (200236)
+
+- Sahil Aggarwal (200835)
+
+- Rohit Kumar Gupta(200816)
+
+- Adheena Jose (200035)
+
+- Mridul Khare (190513)
+
+- Yasvir Singh (201137 )
+
+- Kumar Abhishek (200531)
+
+- Sameer Khan (200853)
+
+- Amit Kumar Yadav (190118)
+
+- Upen Mishra (201063)
+
+
+
+
+
