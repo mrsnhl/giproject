@@ -1,65 +1,85 @@
-# Project Members
+# Geoinformatics Project 2021
+
+This was created by students of Y19 and Y20 of Civil Engineering
+
+## Project Mentor
 
 Snehil Saluja (170707)
 
-Chinmay Joshi (200299)
+## Project Members
 
-Pankaj bairwa (190585)
+- Chinmay Joshi (200299)
 
-Aman Kumar Singh (200100)
+- Pankaj bairwa (190585)
 
-Anupam Anand (200167)
+- Aman Kumar Singh (200100)
 
-Tejas Uttam Warade(201136)
+- Anupam Anand (200167)
 
-Vikas Varshney (201118)
+- Tejas Uttam Warade(201136)
 
-Gaurav Sharma (200379)
+- Vikas Varshney (201118)
 
-Himanshu (210438)
+- Gaurav Sharma (200379)
 
-Divyansh Patel(200353)
+- Himanshu (210438)
 
-Nikhil Singh (200636)
+- Divyansh Patel(200353)
 
-Devansh Singh (200319)
+- Nikhil Singh (200636)
 
-Abhishek Sangwan(200021)
+- Devansh Singh (200319)
 
-Abhaya Pratap Singh (190019)
+- Abhishek Sangwan(200021)
 
-Narendra Jugalkishor Prajapat(200623)
+- Abhaya Pratap Singh (190019)
 
-Farukh Khan(200362)
+- Narendra Jugalkishor Prajapat(200623)
 
-Riya Banik (200809)
+- Farukh Khan(200362)
 
-Ayush Choudhary(200239)
+- Riya Banik (200809)
 
-Sarvagya Jain (200888)
+- Ayush Choudhary(200239)
 
-Anshul Agarwal(200152)
+- Sarvagya Jain (200888)
 
-Yuvraj Mimrot (Zaki)(201170)
+- Anshul Agarwal(200152)
 
-Vijay kumar chauhan(190962)
+- Yuvraj Mimrot(Zaki)(201170)
 
-Mandvi Rajpoot (200557)
+- Vijay kumar chauhan(190962)
 
-Chandan Singh Naruka(200290)
+- Mandvi Rajpoot (200557)
 
-Prabhat Kumar Meena (200688)
+- Chandan Singh Naruka(200290)
 
-chandramani kumar (200292)
+- Prabhat Kumar Meena (200688)
 
-Neeraj Pratap Singh (190542)
+- chandramani kumar (200292)
 
-Sheshank (200930)
+- Saurabh Sahay (200904)
 
-Ayush Agrawal (200236)
+- Shubham Kumar (200969)
 
-Rohit Kumar Gupta(200816)
+- Neeraj Pratap Singh (190542)
 
-Adheena Jose (200035)
+- Sheshank (200930)
 
-Mridul Khare (190513)
+- Ayush Agrawal (200236)
+
+- Sahil Aggarwal (200835)
+
+- Rohit Kumar Gupta(200816)
+
+- Adheena Jose (200035)
+
+- Mridul Khare (190513)
+
+- Yasvir Singh (201137 )
+
+- Kumar Abhishek (200531)
+
+- Sameer Khan (200853)
+
+- Amit Kumar Yadav (190118)
