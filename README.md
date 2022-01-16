@@ -26,7 +26,7 @@ Snehil Saluja (170707)
 
 - Devansh Singh (200319)
 
-- Abhishek Sangwan(200021)
+- Abhishek Sangwan(200021) Here is my [resume link](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)
 
 - Abhaya Pratap Singh (190019)
 
