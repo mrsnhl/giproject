@@ -56,3 +56,7 @@ This was created by Y19 and Y20 students of Civil Engineering
 ## Contributors
 
 <a href="https://github.com/mrsnhl/giproject/graphs/contributors"><img src="https://contrib.rocks/image?repo=mrsnhl/giproject"></a>
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
