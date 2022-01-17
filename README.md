@@ -1,11 +1,16 @@
-# 🌏 Geoinformatics Project 2021 
+# 🌏 Geoinformatics Project 2021
 
 This was created by Y19 and Y20 students of Civil Engineering
 
 ## 👨🏻‍🏫 Project Mentor
 
-<code><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="80"></code>
-
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/simpleesnehil"><img
+                    src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;" alt="" /><br><b>Snehil
+                    Saluja</b></a><br><sub>170707</sub></td>
+    </tr>
+</table>
 **Snehil Saluja (170707)**
 
 ## 👥 Project Members
@@ -60,11 +65,15 @@ This was created by Y19 and Y20 students of Civil Engineering
 ![Github sticker image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <table>
-  <tr>
-    <td align="center"><a href="http://www.github.com/amanks-20"><img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="100px;" alt=""/><br><b>Aman Kumar Singh</b></a><br /><sub>200100</sub><br /><a href="https://amanks-20.github.io/GI_Project_Resume/" title="Resume">Resume</a></td>
-  </tr>
+    <tr>
+        <td align="center"><a href="http://www.github.com/amanks-20"><img
+                    src="https://avatars.githubusercontent.com/u/85317992?v=4" width="100px;" alt="" /><br><b>Aman Kumar
+                    Singh</b></a><br /><sub>200100</sub><br /><a href="https://amanks-20.github.io/GI_Project_Resume/"
+                title="Resume">Resume</a></td>
+    </tr>
+        <tr>
+        <td align="center"><a href="http://www.github.com/amanks-20"><img
+                    src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;" alt="" /><br><b>Snehil Saluja</b></a><br><sub>200100</sub><br><a href="https://amanks-20.github.io/GI_Project_Resume/"
+                title="Resume">Resume</a></td>
+    </tr>
 </table>
-
-
-
-
