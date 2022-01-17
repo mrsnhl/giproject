@@ -19,7 +19,7 @@ This was created by Y19 and Y20 students of Civil Engineering
 | Amit Kumar Yadav              | 190118  |
 | Anshul Agarwal                | 200152  |
 | Anupam Anand                  | 200167  | [Link](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)    |
-| Ayush Agrawal                 | 200236  |
+| Ayush Agrawal                 | 200236  | [Link](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)    |
 | Ayush Choudhary               | 200239  |
 | Chandan Singh Naruka          | 200290  |
 | Chandramani Kumar             | 200292  | [Link](https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit) |
