@@ -30,7 +30,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - Vikas Varshney (201118)
   -[Resume link](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)
 
-- Gaurav Sharma (200379)
+- Gaurav Sharma (200379) - ( https://drive.google.com/file/d/1jgNzGAasAQmqdBWB-uOG6JPGEAdREnPh/view?usp=sharing)
 
 - Himanshu (210438)
   {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
