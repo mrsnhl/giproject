@@ -61,7 +61,7 @@ This was created by Y19 and Y20 students of Civil Engineering
 
 <table>
   <tr>
-    <td align="center"><a href="http://www.github.com/amanks-20"><img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="100px;" alt=""/><br><sub><b>Aman Kumar Singh</b></sub></a><br />200100<br /><a href="https://amanks-20.github.io/GI_Project_Resume/" title="Resume">Resume</a></td>
+    <td align="center"><a href="http://www.github.com/amanks-20"><img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="100px;" alt=""/><br><b>Aman Kumar Singh</b></a><br /><sub>200100</sub><br /><a href="https://amanks-20.github.io/GI_Project_Resume/" title="Resume">Resume</a></td>
     <td align="center"><a href="https://twiecki.io/"><img src="https://avatars2.githubusercontent.com/u/674200?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Wiecki</b></sub></a><br /><a href="#content-twiecki" title="Content">🖋</a> <a href="https://github.com/github/covid19-dashboard/commits?author=twiecki" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jwrichar"><img src="https://avatars3.githubusercontent.com/u/52940005?v=4" width="100px;" alt=""/><br /><sub><b>Joseph Richards</b></sub></a><br /><a href="#content-jwrichar" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/aimran-adroll"><img src="https://avatars2.githubusercontent.com/u/31903245?v=4" width="100px;" alt=""/><br /><sub><b>Asif Imran</b></sub></a><br /><a href="#content-aimran-adroll" title="Content">🖋</a></td>
