@@ -74,5 +74,5 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 
 | Name                          | Roll No | Resume                                                                                          | GitHub | 
 | ----------------------------- | ------- | ----------------------------------------------------------------------------------------------- | ----- | 
-|  Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                           https://github.com/amanks-20             | <code><a href="https://github.com/amanks-20"><img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="50;"></a></code> |
+|  Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                       | <code><a href="https://github.com/amanks-20"><img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="50;"></a></code> |
 
