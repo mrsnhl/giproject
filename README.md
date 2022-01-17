@@ -69,9 +69,4 @@ This was created by Y19 and Y20 students of Civil Engineering
                     Singh</b></a><br /><sub>200100</sub><br /><a href="https://amanks-20.github.io/GI_Project_Resume/"
                 title="Resume">Resume</a></td>
     </tr>
-        <tr>
-        <td align="center"><a href="http://www.github.com/amanks-20"><img
-                    src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;" alt="" /><br><b>Snehil Saluja</b></a><br><sub>200100</sub><br><a href="https://amanks-20.github.io/GI_Project_Resume/"
-                title="Resume">Resume</a></td>
-    </tr>
 </table>
