@@ -1,14 +1,14 @@
-# Geoinformatics Project 2021
+# 🌏 Geoinformatics Project 2021 
 
 This was created by Y19 and Y20 students of Civil Engineering
 
-## Project Mentor
+## 👨🏻‍🏫 Project Mentor
 
 <code><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="80"></code>
 
 **Snehil Saluja (170707)**
 
-## Project Members
+## 👥 Project Members
 
 | Name                          | Roll No | Resume                                                                                        |
 | ----------------------------- | ------- | --------------------------------------------------------------------------------------------- |
