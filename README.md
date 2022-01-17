@@ -100,6 +100,6 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Shubham Kumar                 | 200969  |
 | Tejas Uttam Warade            | 201167  | [Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)    |
 | Vijay Kumar Chauhan           | 190962  | [Resume](https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)    |
-| Vikas Varshney                | 201118  | [Resume](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)    |
+| Vikas Varshney                | 201118  | [Resume](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)    |  <a href="https://github.com/YuvrajMimrotZaki"><img src="https://avatars.githubusercontent.com/u/95518548?v=4" width="50;"></a> |
 | Yasvir Singh                  | 201137  |
 | Yuvraj Mimrot                 | 201170  | [Resume](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)    |
