@@ -18,7 +18,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Abhaya Pratap Singh           | 190019  | [Resume](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)    |
 | Abhishek Sangwan              | 200021  | [Resume](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)    |
 | Adheena Jose                  | 200035  | [Resume](https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing)    |
-| <img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="100px;">Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                        |
+| <img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="100px; style="border-radius:2px;">Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                        |
 | Amit Kumar Yadav              | 190118  |
 | Anshul Agarwal                | 200152  |
 | Anupam Anand                  | 200167  | [Resume](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)    |
