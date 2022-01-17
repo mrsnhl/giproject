@@ -77,7 +77,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Chandramani Kumar             | 200292  | [Resume](https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit) |
 | Chinmay Joshi                 | 200299  | [Resume](https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing)    |
 | Devansh Singh                 | 200353  | [Resume](https://drive.google.com/file/d/1fPFgUAAfZsBgON3MA2myhk8ojRfUgt0n/view?usp=sharing)    |
-| Divyansh Patel                | 200353  | [Resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)    |
+| Divyansh Patel                | 200353  | [Resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)    | <a href="https://github.com/pdivyansh20"><img src="https://avatars.githubusercontent.com/u/84575211?v=4" width="50;"></a> |
 | Farukh Khan                   | 200363  |
 | Gaurav Sharma                 | 200379  | [Resume](https://drive.google.com/file/d/1jgNzGAasAQmqdBWB-uOG6JPGEAdREnPh/view?usp=sharing)    |
 | Himanshu                      | 210438  | [Resume](https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing%7D) |
