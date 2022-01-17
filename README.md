@@ -27,7 +27,7 @@ This was created by Y19 and Y20 students of Civil Engineering
 | Devansh Singh                 | 200353  |
 | Divyansh Patel                | 200353  | [Link](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)    |
 | Farukh Khan                   | 200363  |
-| Gaurav Sharma                 | 200379  | [Link](https://drive.google.com/file/d/1jgNzGAasAQmqdBWB-uOG6JPGEAdREnPh/view?usp=sharing).   |
+| Gaurav Sharma                 | 200379  | [Link](https://drive.google.com/file/d/1jgNzGAasAQmqdBWB-uOG6JPGEAdREnPh/view?usp=sharing)    |
 | Himanshu                      | 210438  | [Link](https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing%7D) |
 | Kaushal Kumar Jha             | 200498  | [Link](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)    |
 | Kumar Abhishek                | 200531  |
