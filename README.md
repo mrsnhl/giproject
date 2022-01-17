@@ -34,7 +34,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Himanshu                      | 210438  | [Resume](https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing%7D) |
 | Kaushal Kumar Jha             | 200498  | [Resume](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)    |
 | Kumar Abhishek                | 200531  |
-| [!image](https://png.pngtree.com/png-clipart/20190614/original/pngtree-female-student-vector-icon-png-image_3725518.jpg) Mandvi Rajpoot                | 200557  | [Resume](https://drive.google.com/file/d/1PqsI74KCtEGDm0CZEEtwLK6gSKK_6p8o/view?usp=sharing)    |
+| <img src="https://png.pngtree.com/png-clipart/20190614/original/pngtree-female-student-vector-icon-png-image_3725518.jpg"> Mandvi Rajpoot                | 200557  | [Resume](https://drive.google.com/file/d/1PqsI74KCtEGDm0CZEEtwLK6gSKK_6p8o/view?usp=sharing)    |
 | Mridul Khare                  | 190513  |
 | Narendra Jugalkishor Prajapat | 200623  | [Resume](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)    |
 | Neeraj Pratap Singh           | 190542  | [Resume](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)    |
