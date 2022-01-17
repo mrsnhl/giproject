@@ -111,7 +111,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Yuvraj Singh (201171)
 
-- Vivek singh rajawat(190990)
+- Vivek singh rajawat(190990)[Resume link](https://drive.google.com/file/d/1lsvC2RLoMRpqpQKE48TOpMHytUsInLpt/view?usp=sharing)
 
 -Anay Nagar(190130)
 
