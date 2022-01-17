@@ -7,7 +7,7 @@ This was created by Y19 and Y20 students of Civil Engineering
 <table>
     <tr>
         <td align="center"><a href="https://github.com/simpleesnehil"><img
-                    src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;" alt="" /><br><b>**Snehil Saluja**</b></a><br><sub>170707</sub></td>
+                    src="https://avatars.githubusercontent.com/u/86979316?v=4" width="100px;" alt="" /><br><b>Snehil Saluja</b></a><br><sub>170707</sub></td>
     </tr>
 </table>
 
