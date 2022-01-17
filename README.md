@@ -1,6 +1,6 @@
 # 🌏 Geoinformatics Project 2021
 
-This was created by Y19 and Y20 students of Civil Engineering
+This was created by Y19 and Y20 students in the Civil Engineering Department of IIT Kanpur
 
 ## 👨🏻‍🏫 Project Mentor
 
