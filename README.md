@@ -70,3 +70,9 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
                 title="Resume">Resume</a></td>
     </tr>
 </table>
+
+
+| Photo | Name                          | Roll No | Resume                                                                                          |
+| ----- | ----------------------------- | ------- | ----------------------------------------------------------------------------------------------- |
+| <code><img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="50;"></code> | Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                        |
+
