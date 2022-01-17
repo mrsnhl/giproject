@@ -49,9 +49,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - [Narendra Jugalkishor Prajapat(200623)](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)
 
 - Farukh Khan(200362)
-
-- Riya Banik (200809) 
-
+ 
 - Ayush Choudhary(200239)
 
 - Sarvagya Jain (200888)
@@ -91,7 +89,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Mridul Khare (190513)
 
-- [Riya Banik (200809)] (https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)
+- [Riya Banik (200809)](https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)
 
 - Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
 
