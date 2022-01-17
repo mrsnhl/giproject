@@ -18,7 +18,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Abhaya Pratap Singh           | 190019  | [Resume](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)    |
 | Abhishek Sangwan              | 200021  | [Resume](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)    |
 | Adheena Jose                  | 200035  | [Resume](https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing)    |
-| Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                        |
+| <img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="100px;">Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                        |
 | Amit Kumar Yadav              | 190118  |
 | Anshul Agarwal                | 200152  |
 | Anupam Anand                  | 200167  | [Resume](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)    |
@@ -34,7 +34,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Himanshu                      | 210438  | [Resume](https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing%7D) |
 | Kaushal Kumar Jha             | 200498  | [Resume](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)    |
 | Kumar Abhishek                | 200531  |
-| <img src="https://png.pngtree.com/png-clipart/20190614/original/pngtree-female-student-vector-icon-png-image_3725518.jpg"> Mandvi Rajpoot                | 200557  | [Resume](https://drive.google.com/file/d/1PqsI74KCtEGDm0CZEEtwLK6gSKK_6p8o/view?usp=sharing)    |
+| Mandvi Rajpoot                | 200557  | [Resume](https://drive.google.com/file/d/1PqsI74KCtEGDm0CZEEtwLK6gSKK_6p8o/view?usp=sharing)    |
 | Mridul Khare                  | 190513  |
 | Narendra Jugalkishor Prajapat | 200623  | [Resume](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)    |
 | Neeraj Pratap Singh           | 190542  | [Resume](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)    |
