@@ -62,12 +62,12 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 
 ## 👥 Project Members
 
-| Name                          | Roll No | Resume                                                                                          | GitHub                                                                                                                  |
-| ----------------------------- | ------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Name                          | Roll No | Resume                                                                                          | GitHub                                                                                                                    |
+| ----------------------------- | ------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | Abhaya Pratap Singh           | 190019  | [Resume](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)    |
 | Abhishek Sangwan              | 200021  | [Resume](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)    |
-| Adheena Jose                  | 200035  | [Resume](https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing)    | <a href="https://github.com/adheena20"><img src="https://avatars.githubusercontent.com/u/82333140?v=4" width="50;"></a> |
-| Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                        | <a href="https://github.com/amanks-20"><img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="50;"></a> |
+| Adheena Jose                  | 200035  | [Resume](https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing)    | <a href="https://github.com/adheena20"><img src="https://avatars.githubusercontent.com/u/82333140?v=4" width="50;"></a>   |
+| Aman Kumar Singh              | 200100  | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                        | <a href="https://github.com/amanks-20"><img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="50;"></a>   |
 | Amit Kumar Yadav              | 190118  |
 | Anshul Agarwal                | 200152  |
 | Anupam Anand                  | 200167  | [Resume](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)    |
@@ -85,12 +85,12 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Kumar Abhishek                | 200531  |
 | Mandvi Rajpoot                | 200557  | [Resume](https://drive.google.com/file/d/1PqsI74KCtEGDm0CZEEtwLK6gSKK_6p8o/view?usp=sharing)    |
 | Mridul Khare                  | 190513  |
-| Narendra Jugalkishor Prajapat | 200623  | [Resume](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)    |
-| Neeraj Pratap Singh           | 190542  | [Resume](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)    |
-| Nikhil Singh                  | 200379  | [Resume](https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)    |
-| Pankaj Bairwa                 | 190585  | [Resume](https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)    |
-| Prabhat Kumar Meena           | 200688  | [Resume](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)    |
-| Riya Banik                    | 200809  | [Resume](https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)    |
+| Narendra Jugalkishor Prajapat | 200623  | [Resume](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)    |  <a href="https://github.com/pdivyansh20"><img src="https://avatars.githubusercontent.com/u/84575211?v=4" width="50;"></a> |
+| Neeraj Pratap Singh           | 190542  | [Resume](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)    |  <a href="https://github.com/pdivyansh20"><img src="https://avatars.githubusercontent.com/u/84575211?v=4" width="50;"></a> |
+| Nikhil Singh                  | 200379  | [Resume](https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)    |  <a href="https://github.com/pdivyansh20"><img src="https://avatars.githubusercontent.com/u/84575211?v=4" width="50;"></a> |
+| Pankaj Bairwa                 | 190585  | [Resume](https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)    |  <a href="https://github.com/pdivyansh20"><img src="https://avatars.githubusercontent.com/u/84575211?v=4" width="50;"></a> |
+| Prabhat Kumar Meena           | 200688  | [Resume](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)    |  <a href="https://github.com/pdivyansh20"><img src="https://avatars.githubusercontent.com/u/84575211?v=4" width="50;"></a> |
+| Riya Banik                    | 200809  | [Resume](https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)    |  <a href="https://github.com/pdivyansh20"><img src="https://avatars.githubusercontent.com/u/84575211?v=4" width="50;"></a> |
 | Rohit Kumar Gupta             | 200816  |
 | Sahil Aggarwal                | 200835  | [Resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)    |
 | Sameer Khan                   | 200853  |
