@@ -63,11 +63,11 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - [Yuvraj Mimrot (Zaki) (201170)](https://home.iitk.ac.in/~yuvrajm20/)
   <details><summary>About</summary>
 
-* Sophomore , IITK'24
-* CE
-* Loves to watch Anime
+    1. Sophomore , IITK'24
+    2. CE
+    3. Loves to watch Anime
 
-</details>
+  </details>
 
 - Ayush Agrawal (200236)
 
