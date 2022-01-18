@@ -28,7 +28,8 @@ This was created by students of Y19 and Y20 of Civil Engineering
   > Currrently I am Doing GI project .
 
 - Vikas Varshney (201118)
-  -[Resume link](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)
+  -[Resume link](https://drive.google.com/file/d/1ILtPVm-Kg8rLMmWJCxoIsKaKSErkXKFA/view?usp=sharing)
+  > I am a second-year student, pursuing my B.Tech degree in Civil Engineering Department at IIT KANPUR.
 
 - Gaurav Sharma (200379) - ( https://drive.google.com/file/d/1jgNzGAasAQmqdBWB-uOG6JPGEAdREnPh/view?usp=sharing)
 
