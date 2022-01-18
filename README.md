@@ -46,7 +46,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - [Abhaya Pratap Singh (190019)](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing)
 
-- [Narendra Jugalkishor Prajapat(200623)](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)
+- [Narendra Jugalkishor Prajapat(200623)](https://drive.google.com/file/d/1r5nQ85If6r-4BVNuspXiNGi-VxZIPeX_/view?usp=sharing)
 
 - Farukh Khan(200362)
  
@@ -122,5 +122,8 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Mahaveer Bana(190467)https://drive.google.com/file/d/1QJM7MvKEM5WnEhPzbj1UYwx9M5MlMT7v/view?usp=sharing
 
+-Adheena Jose(200035) <a href="https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing">Resume</a>
+
 - Gagan Sipani (200363) [Resume](https://drive.google.com/file/d/133W96I3pPU6VMmZBSvMkdStK90c9ycVK/view?usp=sharing)
+
 
