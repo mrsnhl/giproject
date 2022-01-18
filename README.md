@@ -116,7 +116,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 -Anay Nagar(190130)
 
-- Parth Bhatt (200669)
+- Parth Bhatt (200669) [Resume link](https://drive.google.com/drive/folders/1a3cx27mhuMjAa100a16ANW0eMqZXh71V)
 
 - Saksham Goyal(190740) https://drive.google.com/file/d/1bZi0YvjTCHz4pupBsJds6zAVNmRJ1PNY/view?usp=sharing
 
