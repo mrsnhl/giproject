@@ -122,3 +122,5 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Mahaveer Bana(190467)https://drive.google.com/file/d/1QJM7MvKEM5WnEhPzbj1UYwx9M5MlMT7v/view?usp=sharing
 
+- Gagan Sipani (200363) [Resume](https://drive.google.com/file/d/133W96I3pPU6VMmZBSvMkdStK90c9ycVK/view?usp=sharing)
+
