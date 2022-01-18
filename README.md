@@ -101,7 +101,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Kaushal Kumar Jha(200498) [My Resume](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)
 
-- [Yasvir Singh (201137 )] (https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing)
+- [Yasvir Singh (201137 )](https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing)
 
 - Kumar Abhishek (200531)
 
