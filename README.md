@@ -1,4 +1,4 @@
-# Geoinformatics Project 2022
+# Geoinformatics Project 2021-22
 
 This was created by students of Y19 and Y20 of Civil Engineering
 
