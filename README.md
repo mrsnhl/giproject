@@ -21,14 +21,14 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - [Anupam Anand (200167)](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing)
 
-- Tejas Uttam Warade(201136) -[Tejas Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)
+- Tejas Uttam Warade(201136) -[Tejas Resume](https://drive.google.com/file/d/17EXKKW8Z9qYtHIJhNzMs6kx16J6aUbJP/view?usp=sharing)
 
   > I am Second year Undergraduate , IIT kanpur. I am pursuing Civil Engineering .
   > I Love to play Cricket,Watch movies,Coding and also love drawing .
   > Currrently I am Doing GI project .
 
-- Vikas Varshney (201118)
-  -[Resume link](https://drive.google.com/file/d/1ILtPVm-Kg8rLMmWJCxoIsKaKSErkXKFA/view?usp=sharing)
+- Vikas Varshney (201118) -[Resume link](https://drive.google.com/file/d/1ILtPVm-Kg8rLMmWJCxoIsKaKSErkXKFA/view?usp=sharing)
+
   > I am a second-year student, pursuing my B.Tech degree in Civil Engineering Department at IIT KANPUR.
 
 - Gaurav Sharma (200379) - ( https://drive.google.com/file/d/1jgNzGAasAQmqdBWB-uOG6JPGEAdREnPh/view?usp=sharing)
@@ -50,7 +50,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - [Narendra Jugalkishor Prajapat(200623)](https://drive.google.com/file/d/1r5nQ85If6r-4BVNuspXiNGi-VxZIPeX_/view?usp=sharing)
 
 - Farukh Khan(200362)
- 
+
 - Ayush Choudhary(200239)
 
 - Sarvagya Jain (200888)
@@ -62,9 +62,9 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - [Yuvraj Mimrot (Zaki) (201170)](https://home.iitk.ac.in/~yuvrajm20/)
   <details><summary>About</summary>
 
-    1. Sophomore , IITK'24
-    2. CE
-    3. Loves to watch Anime
+  1. Sophomore , IITK'24
+  2. CE
+  3. Loves to watch Anime
 
   </details>
 
@@ -80,7 +80,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Prabhat Kumar Meena (200688) | [Resume Link](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
-- chandramani kumar (200292)   https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit
+- chandramani kumar (200292) https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit
 
 - Saurabh Sahay (200904)
 
@@ -118,7 +118,6 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Parth Bhatt (200669)
 
-
 - Saksham Goyal(190740) https://drive.google.com/file/d/1bZi0YvjTCHz4pupBsJds6zAVNmRJ1PNY/view?usp=sharing
 
 - Mahaveer Bana(190467)https://drive.google.com/file/d/1QJM7MvKEM5WnEhPzbj1UYwx9M5MlMT7v/view?usp=sharing
@@ -126,5 +125,3 @@ This was created by students of Y19 and Y20 of Civil Engineering
 -Adheena Jose(200035) <a href="https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing">Resume</a>
 
 - Gagan Sipani (200363) [Resume](https://drive.google.com/file/d/133W96I3pPU6VMmZBSvMkdStK90c9ycVK/view?usp=sharing)
-
-
