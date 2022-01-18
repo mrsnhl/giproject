@@ -1,16 +1,21 @@
-# Project Mentor
+# Geoinformatics Project 2021-22
 
-Snehil Saluja (170707)
+This was created by students of Y19 and Y20 of Civil Engineering
 
-# Project Members
+## Project Mentor
+
+<code><img src="https://avatars.githubusercontent.com/u/86979316?v=4" width="70"></code>
+
+**Snehil Saluja (170707)**
+
+## Project Members
 
 - Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
 
 - Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
-- [Aman Kumar Singh (200100](https://amanks-20.github.io/GI_Project_Resume/)
-
-
+- [Aman Kumar Singh (200100)](https://amanks-20.github.io/GI_Project_Resume/)
+  > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
 - Anupam Anand (200167)
   https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing
 
@@ -22,11 +27,10 @@ Snehil Saluja (170707)
   > I Love to play Cricket,Watch movies,Coding and also love drawing .
   > Currrently I am Doing GI project .
 
-
 - Vikas Varshney (201118)
-  { My Resume link : https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing }
+  -[Resume link](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)
 
-- Gaurav Sharma (200379)
+- Gaurav Sharma (200379) - ( https://drive.google.com/file/d/1jgNzGAasAQmqdBWB-uOG6JPGEAdREnPh/view?usp=sharing)
 
 - Himanshu (210438)
   {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
@@ -36,8 +40,7 @@ Snehil Saluja (170707)
 - Nikhil Singh (200636)
   (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
 
-
-- Devansh Singh (200319)
+- Devansh Singh (200319) [Resume](https://drive.google.com/file/d/1fPFgUAAfZsBgON3MA2myhk8ojRfUgt0n/view?usp=sharing)
 
 - Abhishek Sangwan(200021) Here is my [resume link](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing)
 
@@ -46,9 +49,7 @@ Snehil Saluja (170707)
 - [Narendra Jugalkishor Prajapat(200623)](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)
 
 - Farukh Khan(200362)
-
-- Riya Banik (200809) 
-
+ 
 - Ayush Choudhary(200239)
 
 - Sarvagya Jain (200888)
@@ -57,9 +58,20 @@ Snehil Saluja (170707)
 
 - Anshul Agarwal(200152)
 
-- [Yuvraj Mimrot(Zaki)(201170)](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
+- [Yuvraj Mimrot (Zaki) (201170)](https://home.iitk.ac.in/~yuvrajm20/)
+  <details><summary>About</summary>
 
-- Vijay kumar chauhan(190962)
+    1. Sophomore , IITK'24
+    2. CE
+    3. Loves to watch Anime
+
+  </details>
+
+- Ayush Agrawal (200236)
+
+- Nitin Jangir(190568)
+
+- Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
 
@@ -75,30 +87,38 @@ Snehil Saluja (170707)
 
 - Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
 
-- [Riya Banik (200809)] (https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)
+- Mridul Khare (190513)
+
+- [Riya Banik (200809)](https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)
 
 - Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
-- Sahil Aggarwal (200835) [My resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)
+- Sahil Aggarwal (200835) Here is [My resume](https://drive.google.com/file/d/12XShRVSO3fYJtLa8pkN7s82SiCDiqJTA/view?usp=sharing)
 
 - Rohit Kumar Gupta(200816)
 
-- Adheena Jose (200035)https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing
+- Kaushal Kumar Jha(200498) [My Resume](https://drive.google.com/file/d/1qxpPeHLSjecauu5AifMIwbPmr6bgKI4E/view?usp=sharing)
 
-- Mridul Khare (190513)
-
-- Yasvir Singh (201137 ) https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing
+- Yasvir Singh (201137 )
 
 - Kumar Abhishek (200531)
 
-- Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
+- Sameer Khan (200853)
 
-- Amit Kumar Yadav (190118) [Resume Link](https://drive.google.com/file/d/1b745ZFvB91bcEXHCBIF9pBE3riyv4g2R/view?usp=sharing)
+- Amit Kumar Yadav (190118)
 
-- Upen Mishra (201063) https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing
+- Yuvraj Singh (201171)
+
+- Vivek singh rajawat(190990)[Resume link](https://drive.google.com/file/d/1lsvC2RLoMRpqpQKE48TOpMHytUsInLpt/view?usp=sharing)
+
+-Anay Nagar(190130)
+
+- Parth Bhatt (200669)
+
 
 - Saksham Goyal(190740) https://drive.google.com/file/d/1bZi0YvjTCHz4pupBsJds6zAVNmRJ1PNY/view?usp=sharing
 
-mahaveer bana(190467)https://drive.google.com/file/d/1QJM7MvKEM5WnEhPzbj1UYwx9M5MlMT7v/view?usp=sharing
+- Mahaveer Bana(190467)https://drive.google.com/file/d/1QJM7MvKEM5WnEhPzbj1UYwx9M5MlMT7v/view?usp=sharing
+
