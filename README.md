@@ -83,7 +83,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Saurabh Sahay (200904)
 
-- Shubham Kumar (200969)
+- Shubham Kumar (200969) https://drive.google.com/file/d/1Cum9KFMbGo7Xc9UY7r-B4_qsBGC2TvRl/view?usp=sharing
 
 - Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
 
