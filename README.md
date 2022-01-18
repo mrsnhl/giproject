@@ -110,11 +110,11 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Amit Kumar Yadav (190118)
 
-- Yuvraj Singh (201171)
+- Yuvraj Singh (201171) [Resume](https://drive.google.com/file/d/1VdjtgLpIlk64ap9_5OOr8rnsYKkd4fBc/view?usp=sharing)
 
 - Vivek singh rajawat(190990)[Resume link](https://drive.google.com/file/d/1lsvC2RLoMRpqpQKE48TOpMHytUsInLpt/view?usp=sharing)
 
--Anay Nagar(190130)
+- Anay Nagar(190130)
 
 - Parth Bhatt (200669) [Resume link](https://drive.google.com/drive/folders/1a3cx27mhuMjAa100a16ANW0eMqZXh71V)
 
@@ -122,6 +122,6 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Mahaveer Bana(190467)https://drive.google.com/file/d/1QJM7MvKEM5WnEhPzbj1UYwx9M5MlMT7v/view?usp=sharing
 
--Adheena Jose(200035) <a href="https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing">Resume</a>
+- Adheena Jose(200035) <a href="https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing">Resume</a>
 
 - Gagan Sipani (200363) [Resume](https://drive.google.com/file/d/133W96I3pPU6VMmZBSvMkdStK90c9ycVK/view?usp=sharing)
