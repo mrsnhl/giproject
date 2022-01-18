@@ -35,7 +35,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - Himanshu (210438)
   {my resume link : https://drive.google.com/file/d/1EBlO5ha7_4engy2LRMYfUdReU-MltSRk/view?usp=sharing}
 
-- Divyansh Patel(200353)[resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)
+- Divyansh Patel(200353)[My Resume](https://drive.google.com/file/d/193XE-C3DVIorGw1WG4RQy_K9HoB-aRTp/view?usp=sharing)
 
 - Nikhil Singh (200636)
   (my resume link : https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)
