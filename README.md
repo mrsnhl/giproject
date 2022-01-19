@@ -55,7 +55,7 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
 - Sarvagya Jain (200888)
 
-  [Resume Link](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)
+  [Resume Link](https://drive.google.com/file/d/1iZxEDkAsesdR8USfiemSIyJ8WDJSDzql/view?usp=sharing)
 
 - Anshul Agarwal(200152)
 
