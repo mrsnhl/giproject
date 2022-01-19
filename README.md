@@ -87,7 +87,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
 
-- Mridul Khare (190513)
+- [Mridul Khare (190513)](https://drive.google.com/file/d/1eGdXKyr_erOC-eTqSIgNTvxX1nAE5tqn/view?usp=sharing)
 
 - [Riya Banik (200809)](https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)
 
