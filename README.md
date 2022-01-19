@@ -68,15 +68,20 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
   </details>
 
-- Ayush Agrawal (200236)
+- Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1uB4tKSDd4G1M1djiE5XxPD8EEEG0kYp3/view?usp=sharing)
+
+  > I am Second year Undergraduate , IIT kanpur. I am pursuing Civil Engineering .
+  > I Love to play badminton, cycle, watch movies and play video games.
+  > Currrently I am Doing GI project .
 
 - Nitin Jangir(190568)
 
-- Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)
+- Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1fFZ0npdHCJ00t2qRTXMCaKSeN_manbZz/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
 
-- Chandan Singh Naruka(200290)
+- Chandan Singh Naruka(200290) [My resume](https://drive.google.com/file/d/16qcXrT6Eo93mkCoeIYthFb4B5fiebXYA/view?usp=sharing)
+   > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
 
 - Prabhat Kumar Meena (200688) | [Resume Link](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
@@ -94,8 +99,6 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
 
-- Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
-
 - Sahil Aggarwal (200835) Here is what you can know about [me](https://i.ytimg.com/vi/cAYMdVjM6_A/maxresdefault.jpg)
 
 - Rohit Kumar Gupta(200816)
@@ -106,7 +109,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Kumar Abhishek (200531)
 
-- Sameer Khan (200853)
+- Sameer Khan (200853)   https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
 
 - Amit Kumar Yadav (190118)
 
@@ -126,4 +129,6 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Gagan Sipani (200363) [Resume](https://drive.google.com/file/d/133W96I3pPU6VMmZBSvMkdStK90c9ycVK/view?usp=sharing)
 
-- temporary change
+- Upen Mishra (201063)  <a href="https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing">Resume</a>
+
+- Nishithaarsh Umrao (200647) [Resume](https://drive.google.com/drive/folders/1m4rzwG5oBU-022xoLgEL3vRMUD7oQgUx?usp=sharing)
