@@ -80,7 +80,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Mandvi Rajpoot (200557)
 
-- Chandan Singh Naruka(200290)
+- Chandan Singh Naruka(200290) (https://drive.google.com/file/d/16qcXrT6Eo93mkCoeIYthFb4B5fiebXYA/view?usp=sharing)
 
 - Prabhat Kumar Meena (200688) | [Resume Link](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
