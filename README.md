@@ -68,7 +68,11 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
   </details>
 
-- Ayush Agrawal (200236)
+- Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1uB4tKSDd4G1M1djiE5XxPD8EEEG0kYp3/view?usp=sharing)
+
+  > I am Second year Undergraduate , IIT kanpur. I am pursuing Civil Engineering .
+  > I Love to play badminton, cycle, watch movies and play video games.
+  > Currrently I am Doing GI project .
 
 - Nitin Jangir(190568)
 
@@ -93,8 +97,6 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - [Riya Banik (200809)](https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)
 
 - Sheshank (200930) https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing
-
-- Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1j8FM9x3Q_U-RvZj3BaKYTkL_TbxI4WQY/view?usp=sharing)
 
 - Sahil Aggarwal (200835) Here is what you can know about [me](https://i.ytimg.com/vi/cAYMdVjM6_A/maxresdefault.jpg)
 
