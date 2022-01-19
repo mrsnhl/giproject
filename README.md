@@ -58,7 +58,7 @@ Snehil Saluja (170707)
 
 - [Prabhat Kumar Meena (200688)] | (https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
-- chandramani kumar (200292)   https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit
+- chandramani kumar (200292)   https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit(resume link)
 
 - Saurabh Sahay (200904)
 
