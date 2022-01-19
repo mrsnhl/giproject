@@ -130,6 +130,10 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
 - Gagan Sipani (200363) [Resume](https://drive.google.com/file/d/133W96I3pPU6VMmZBSvMkdStK90c9ycVK/view?usp=sharing)
 
+  > I am Second year Undergraduate, IIT kanpur. I am pursuing Civil Engineering.
+  > I love to play badminton, ride a cycle, and watch movies.
+  > Currrently I am Doing GI project.
+
 - Upen Mishra (201063) <a href="https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing">Resume</a>
 
 - Nishithaarsh Umrao (200647) [Resume](https://drive.google.com/drive/folders/1m4rzwG5oBU-022xoLgEL3vRMUD7oQgUx?usp=sharing)
