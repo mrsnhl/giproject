@@ -49,7 +49,7 @@ Vijay chauhan(190962) (https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDx
 
 - Yuvraj Mimrot(Zaki)(201170)
 
-- Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1fFZ0npdHCJ00t2qRTXMCaKSeN_manbZz/view?usp=sharing)
+- Vijay chauhan(190962)(https://drive.google.com/file/d/1fFZ0npdHCJ00t2qRTXMCaKSeN_manbZz/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
 
