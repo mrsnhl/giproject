@@ -24,7 +24,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 190019  | Abhaya Pratap Singh           | [Resume](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing) | [GitHub](https://github.com/apsingh001)       |
 | 200021  | Abhishek Sangwan              | [Resume](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing) | [GitHub](https://github.com/abhisheksangwan)  |
 | 200035  | Adheena Jose                  | [Resume](https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing) | [GitHub](https://github.com/adheena20)        |
-| 200100  | Aman Kumar Singh              | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                     | [GitHub](https://github.com/amanks-20)        |
+| 200100  | Aman Kumar Singh              | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                     | [<img src="https://avatars.githubusercontent.com/u/85317992?v=4" width="100px;" alt="">](https://github.com/amanks-20)        |
 | 190118  | Amit Kumar Yadav              |                                                                                              | [GitHub](https://github.com/)                 |
 | 200152  | Anshul Agarwal                |                                                                                              | [GitHub](https://github.com/)                 |
 | 200167  | Anupam Anand                  | [Resume](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing) | [GitHub](https://github.com/anupam01102002)   |
