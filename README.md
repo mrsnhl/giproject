@@ -104,7 +104,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - [Yasvir Singh (201137 )](https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing)
 
-- Kumar Abhishek (200531)
+- Kumar Abhishek (200531) | [Resume Link](https://drive.google.com/file/d/1qvUn93ZdDlfNVLi4P_JOzb_IqA3uecrw/view?usp=sharing)
 
 - Sameer Khan (200853)
 
