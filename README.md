@@ -82,9 +82,9 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - chandramani kumar (200292) https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharinggit
 
-- Saurabh Sahay (200904)  https://drive.google.com/file/d/1zW_dNBkHAAgvQK-djdBqNEo9f00FuTJl/view?usp=sharing
+- Saurabh Sahay (200904)
 
-- Shubham Kumar (200969) https://drive.google.com/file/d/1Cum9KFMbGo7Xc9UY7r-B4_qsBGC2TvRl/view?usp=sharing
+- Shubham Kumar (200969)
 
 - Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
 
@@ -104,7 +104,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - [Yasvir Singh (201137 )](https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing)
 
-- Kumar Abhishek (200531) | [Resume Link](https://drive.google.com/file/d/1qvUn93ZdDlfNVLi4P_JOzb_IqA3uecrw/view?usp=sharing)
+- Kumar Abhishek (200531)
 
 - Sameer Khan (200853)
 
