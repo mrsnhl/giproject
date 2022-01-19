@@ -1,6 +1,6 @@
 # Geoinformatics Project 2021-22
 
-This was created by students of Y19 and Y20 of Civil Engineering
+This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 students are a part of the project who are learning HTML, CSS, JS and would be learning React, Python and Django and applying it on various Geoinformatics Projects.
 
 ## Project Mentor
 
@@ -59,7 +59,8 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Anshul Agarwal(200152)
 
-- [Yuvraj Mimrot (Zaki) (201170)](https://home.iitk.ac.in/~yuvrajm20/)
+- Yuvraj Mimrot (Zaki) (201170)
+  [resume drive link](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
   <details><summary>About</summary>
 
   1. Sophomore , IITK'24
@@ -76,12 +77,13 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Nitin Jangir(190568)
 
-- Vijay kumar chauhan(190962)(https://drive.google.com/file/d/1fFZ0npdHCJ00t2qRTXMCaKSeN_manbZz/view?usp=sharing)
+- Vijay chauhan(190962)(https://drive.google.com/file/d/1fFZ0npdHCJ00t2qRTXMCaKSeN_manbZz/view?usp=sharing)
 
 - Mandvi Rajpoot (200557)
 
 - Chandan Singh Naruka(200290) [My resume](https://drive.google.com/file/d/16qcXrT6Eo93mkCoeIYthFb4B5fiebXYA/view?usp=sharing)
-   > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
+
+  > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
 
 - Prabhat Kumar Meena (200688) | [Resume Link](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
@@ -109,7 +111,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Kumar Abhishek (200531)
 
-- Sameer Khan (200853)   https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
+- Sameer Khan (200853) https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
 
 - Amit Kumar Yadav (190118)
 
@@ -129,8 +131,16 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Gagan Sipani (200363) [Resume](https://drive.google.com/file/d/133W96I3pPU6VMmZBSvMkdStK90c9ycVK/view?usp=sharing)
 
-- Upen Mishra (201063)  <a href="https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing">Resume</a>
+  > I am Second year Undergraduate, IIT kanpur. I am pursuing Civil Engineering.
+  > I love to play badminton, ride a cycle, and watch movies.
+  > Currrently I am Doing GI project.
+
+- Upen Mishra (201063) <a href="https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing">Resume</a>
 
 - Nishithaarsh Umrao (200647) [Resume](https://drive.google.com/drive/folders/1m4rzwG5oBU-022xoLgEL3vRMUD7oQgUx?usp=sharing)
+
+- Anuradha Singh (200169) [Resume](https://drive.google.com/file/d/1qnqv5FvYcXHSUZWIuXFNJgKenkuT7A_3/view?usp=sharing)
+
+- Alisha Verma (200093) [Resume](https://drive.google.com/drive/folders/1jhriq7FZVIS8X0biNmSi_zFkLtKGe3gR?usp=sharing)
 
 - Shivam Mishra (200937) [Resume](https://drive.google.com/drive/folders/11WxghEmsOtTBgz1ZI6dgKJFHAW8RzRGB?usp=sharing)
