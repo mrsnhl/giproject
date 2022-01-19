@@ -57,7 +57,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Vikas Varshney                                                                                            | 201118  | [Resume](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)    |
 | Yasvir Singh                                                                                              | 201137  | [Resume](https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing)    |
 | Yuvraj Mimrot                                                                                             | 201170  | [Resume](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)    |
-| Yuvraj Singh                                                                                              | 201171  |
+| Yuvraj Singh                                                                                              | 201171  | [Resume](https://drive.google.com/file/d/1VdjtgLpIlk64ap9_5OOr8rnsYKkd4fBc/view?usp=sharing)
 
 ## Contributors
 
