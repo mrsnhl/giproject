@@ -51,7 +51,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | Sarvagya Jain                                                                                             | 200888  | [Resume](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)    |
 | Saurabh Sahay                                                                                             | 200904  |
 | Sheshank                                                                                                  | 200930  | [Resume](https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing)    |
-| Shubham Kumar                                                                                             | 200969  |
+| Shubham Kumar                                                                                             | 200969  | [Resume](https://drive.google.com/file/d/1Cum9KFMbGo7Xc9UY7r-B4_qsBGC2TvRl/view?usp=sharing)
 | Tejas Uttam Warade                                                                                        | 201167  | [Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)    |
 | Vijay Kumar Chauhan                                                                                       | 190962  | [Resume](https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)    |
 | Vikas Varshney                                                                                            | 201118  | [Resume](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)    |
