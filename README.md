@@ -17,7 +17,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
   </tr>
 </table>
 
-## 👥 Project Members
+## 🎓 Project Members
 
 | Roll No | Name                          | Resume                                                                                       |
 | ------- | ----------------------------- | -------------------------------------------------------------------------------------------- |
@@ -65,7 +65,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 201170  | Yuvraj Mimrot                 | [Resume](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing) |
 | 201171  | Yuvraj Singh                  | [Resume](https://drive.google.com/file/d/1VdjtgLpIlk64ap9_5OOr8rnsYKkd4fBc/view?usp=sharing) |
 
-## Contributors
+## 💻 Contributors
 
 <a href="https://github.com/mrsnhl/giproject/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=mrsnhl/giproject">
