@@ -19,12 +19,12 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 
 ## 🎓 Project Members
 
-| Roll No | Name                          | Resume                                                                                       |
-| ------- | ----------------------------- | -------------------------------------------------------------------------------------------- |
-| 190019  | Abhaya Pratap Singh           | [Resume](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing) |
-| 200021  | Abhishek Sangwan              | [Resume](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing) |
-| 200035  | Adheena Jose                  | [Resume](https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing) |
-| 200100  | Aman Kumar Singh              | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                     |
+| Roll No | Name                          | Resume                                                                                       | [GitHub]{https://github.com/} |
+| ------- | ----------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------- |
+| 190019  | Abhaya Pratap Singh           | [Resume](https://drive.google.com/file/d/1tDHCM_zS5plcAhn1CY3C86Juf31Px6Tg/view?usp=sharing) | [GitHub]{https://github.com/} |
+| 200021  | Abhishek Sangwan              | [Resume](https://drive.google.com/file/d/1-igkARvEBN9q_FNoooMTC134hOJNDgiJ/view?usp=sharing) | [GitHub]{https://github.com/} |
+| 200035  | Adheena Jose                  | [Resume](https://drive.google.com/file/d/1mVUWHN1iGrfThmykHKejaYySocsQ36YE/view?usp=sharing) | [GitHub]{https://github.com/} |
+| 200100  | Aman Kumar Singh              | [Resume](https://amanks-20.github.io/GI_Project_Resume/)                                     | [GitHub]{https://github.com/} |
 | 190118  | Amit Kumar Yadav              |
 | 200152  | Anshul Agarwal                |
 | 200167  | Anupam Anand                  | [Resume](https://drive.google.com/file/d/1p4sI1Vk_mPUONu_MVNJxE-ID0OB0MJ34/view?usp=sharing) |
