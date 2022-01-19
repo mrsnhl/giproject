@@ -140,3 +140,5 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 - Nishithaarsh Umrao (200647) [Resume](https://drive.google.com/drive/folders/1m4rzwG5oBU-022xoLgEL3vRMUD7oQgUx?usp=sharing)
 
 - Anuradha Singh (200169) [Resume](https://drive.google.com/file/d/1qnqv5FvYcXHSUZWIuXFNJgKenkuT7A_3/view?usp=sharing)
+
+Alisha Verma (200093) [Resume](https://drive.google.com/drive/folders/1jhriq7FZVIS8X0biNmSi_zFkLtKGe3gR?usp=sharing)
