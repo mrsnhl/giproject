@@ -109,7 +109,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Kumar Abhishek (200531)
 
-- Sameer Khan (200853)
+- Sameer Khan (200853)   https://drive.google.com/file/d/1T93tZcFMujaH07Fg_3lktQPW2eva4p7S/view?usp=sharing
 
 - Amit Kumar Yadav (190118)
 
