@@ -60,6 +60,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 200969  | Shubham Kumar                 | [Resume](https://drive.google.com/file/d/1Cum9KFMbGo7Xc9UY7r-B4_qsBGC2TvRl/view?usp=sharing) |
 | 201167  | Tejas Uttam Warade            | [Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing) |
 | 190962  | Vijay Kumar Chauhan           | [Resume](https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing) |
+| 190990  | Vivek Singh Rajawat           | [Resume](https://drive.google.com/file/d/1lsvC2RLoMRpqpQKE48TOpMHytUsInLpt/view?usp=sharing) |
 | 201118  | Vikas Varshney                | [Resume](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing) |
 | 201137  | Yasvir Singh                  | [Resume](https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing) |
 | 201170  | Yuvraj Mimrot                 | [Resume](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing) |
