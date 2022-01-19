@@ -61,7 +61,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - Anshul Agarwal(200152)
 
 - [Yuvraj Mimrot (Zaki) (201170)](https://home.iitk.ac.in/~yuvrajm20/)
-[resume drive link](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
+  [resume drive link](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
   <details><summary>About</summary>
 
     1. Sophomore , IITK'24
