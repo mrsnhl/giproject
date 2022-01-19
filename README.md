@@ -142,3 +142,5 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 - Anuradha Singh (200169) [Resume](https://drive.google.com/file/d/1qnqv5FvYcXHSUZWIuXFNJgKenkuT7A_3/view?usp=sharing)
 
 - Alisha Verma (200093) [Resume](https://drive.google.com/drive/folders/1jhriq7FZVIS8X0biNmSi_zFkLtKGe3gR?usp=sharing)
+
+- Shivam Mishra (200937) [Resume](https://drive.google.com/drive/folders/11WxghEmsOtTBgz1ZI6dgKJFHAW8RzRGB?usp=sharing)
