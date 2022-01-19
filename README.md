@@ -132,3 +132,5 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - Upen Mishra (201063)  <a href="https://drive.google.com/file/d/1T-RkTeoSL-i55FDw02VyBU2ure_hCDHx/view?usp=sharing">Resume</a>
 
 - Nishithaarsh Umrao (200647) [Resume](https://drive.google.com/drive/folders/1m4rzwG5oBU-022xoLgEL3vRMUD7oQgUx?usp=sharing)
+
+- Shivam Mishra (200937) [Resume](https://drive.google.com/drive/folders/11WxghEmsOtTBgz1ZI6dgKJFHAW8RzRGB?usp=sharing)
