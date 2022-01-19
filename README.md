@@ -55,7 +55,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 190740  | Saksham Goyal                 | [Resume](https://drive.google.com/file/d/1bZi0YvjTCHz4pupBsJds6zAVNmRJ1PNY/view?usp=sharing) |
 | 200853  | Sameer Khan                   |
 | 200888  | Sarvagya Jain                 | [Resume](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing) |
-| 200904  | Saurabh Sahay                 |
+| 200904  | Saurabh Sahay                 | [Resume](https://drive.google.com/file/d/1zW_dNBkHAAgvQK-djdBqNEo9f00FuTJl/view?usp=sharing) |
 | 200930  | Sheshank                      | [Resume](https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing) |
 | 200969  | Shubham Kumar                 | [Resume](https://drive.google.com/file/d/1Cum9KFMbGo7Xc9UY7r-B4_qsBGC2TvRl/view?usp=sharing) |
 | 201167  | Tejas Uttam Warade            | [Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing) |
