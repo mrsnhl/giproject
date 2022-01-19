@@ -81,6 +81,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - Mandvi Rajpoot (200557)
 
 - Chandan Singh Naruka(200290) [My resume](https://drive.google.com/file/d/16qcXrT6Eo93mkCoeIYthFb4B5fiebXYA/view?usp=sharing)
+   > I am a second-year B.Tech student at IITK in the Civil Engineering Department.
 
 - Prabhat Kumar Meena (200688) | [Resume Link](https://drive.google.com/file/d/1e4u5KwgAiNYbBG875S1VtIH5HAM3xryg/view?usp=sharing)
 
