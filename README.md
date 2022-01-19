@@ -55,7 +55,7 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
 - Sarvagya Jain (200888)
 
-  [Resume Link](https://drive.google.com/file/d/1iZxEDkAsesdR8USfiemSIyJ8WDJSDzql/view?usp=sharing)
+  [Resume Link](https://drive.google.com/file/d/1lCJagqwvorxojJ5PNaMe8RV0DdGXPnDu/view?usp=sharing)
 
 - Anshul Agarwal(200152)
 
@@ -139,4 +139,4 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
 - Nishithaarsh Umrao (200647) [Resume](https://drive.google.com/drive/folders/1m4rzwG5oBU-022xoLgEL3vRMUD7oQgUx?usp=sharing)
 
-- Anuradha Singh (200169) [Resume](https://drive.google.com/file/d/1ZnTd_TkNj_MAw4FPZ48wV2-3B84YtrB5/view?usp=sharing)
+- Anuradha Singh (200169) [Resume](https://drive.google.com/file/d/1qnqv5FvYcXHSUZWIuXFNJgKenkuT7A_3/view?usp=sharing)
