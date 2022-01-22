@@ -36,7 +36,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 200239  | Ayush Choudhary               |                                                                                                | [<img src="https://avatars.githubusercontent.com/ayushc0807" width="50px;">](https://github.com/ayushc0807)             |
 | 200290  | Chandan Singh Naruka          |                                                                                                | [<img src="https://avatars.githubusercontent.com/csn2002" width="50px;">](https://github.com/csn2002)                   |
 | 200292  | Chandramani Kumar             | [Resume](https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/kchandra20" width="50px;">](https://github.com/kchandra20)             |
-| 200299  | Chinmay Joshi                 | [Resume](https://drive.google.com/file/d/1QpBcqZU_ECoez4-xH7hE15jNAJUWzutm/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/chin2002" width="50px;">](https://github.com/chin2002)                 |
+| 200299  | Chinmay Joshi                 | [Resume]https://drive.google.com/file/d/1QpBcqZU_ECoez4-xH7hE15jNAJUWzutm/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/chin2002" width="50px;">](https://github.com/chin2002)                 |
 | 200319  | Devansh Singh                 | [Resume](https://drive.google.com/file/d/1fPFgUAAfZsBgON3MA2myhk8ojRfUgt0n/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/DevanshSingh23" width="50px;">](https://github.com/DevanshSingh23)     |
 | 200353  | Divyansh Patel                | [Resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/pdivyansh20" width="50px;">](https://github.com/pdivyansh20)           |
 | 200363  | Farukh Khan                   |                                                                                                | [<img src="https://avatars.githubusercontent.com/farukh20" width="50px;">](https://github.com/farukh20)                 |
@@ -90,8 +90,8 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 ## Project Members
 
 - Chinmay Joshi (200299) 
-  > I am currently a second year B. Tech. student in the Civil engineering department at IIT Kanpur
-  > Google drive link to my [resume](https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing).
+  > I am currently a second year B. Tech. student in the Civil engineering department at IIT Kanpur.
+  > Google drive link to my [resume](https://drive.google.com/file/d/1QpBcqZU_ECoez4-xH7hE15jNAJUWzutm/view?usp=sharing).
 
 - Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
