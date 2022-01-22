@@ -230,4 +230,5 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 - Shivam Mishra (200937) [Resume](https://drive.google.com/drive/folders/11WxghEmsOtTBgz1ZI6dgKJFHAW8RzRGB?usp=sharing)
 
 - Ayushi Singh (200258) [Resume](https://drive.google.com/drive/folders/1XR9t1ss_uFnlrF-ehFulsnOHENvXFzps?usp=sharing)
+</a>
 
