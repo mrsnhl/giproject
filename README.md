@@ -89,7 +89,9 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
 ## Project Members
 
-- Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
+- Chinmay Joshi (200299) 
+  > I am currently a second year B. Tech. student in the Civil engineering department at IIT Kanpur
+  > Google drive link to my [resume](https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing).
 
 - Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
