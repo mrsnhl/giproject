@@ -36,7 +36,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 200239  | Ayush Choudhary               |                                                                                                | [<img src="https://avatars.githubusercontent.com/ayushc0807" width="50px;">](https://github.com/ayushc0807)             |
 | 200290  | Chandan Singh Naruka          |                                                                                                | [<img src="https://avatars.githubusercontent.com/csn2002" width="50px;">](https://github.com/csn2002)                   |
 | 200292  | Chandramani Kumar             | [Resume](https://drive.google.com/file/d/1DUpIZfPUG2aTcevTtKK0HanyY5GVPEV0/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/kchandra20" width="50px;">](https://github.com/kchandra20)             |
-| 200299  | Chinmay Joshi                 | [Resume](https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/chin2002" width="50px;">](https://github.com/chin2002)                 |
+| 200299  | Chinmay Joshi                 | [Resume](https://drive.google.com/file/d/1QpBcqZU_ECoez4-xH7hE15jNAJUWzutm/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/chin2002" width="50px;">](https://github.com/chin2002)                 |
 | 200319  | Devansh Singh                 | [Resume](https://drive.google.com/file/d/1fPFgUAAfZsBgON3MA2myhk8ojRfUgt0n/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/DevanshSingh23" width="50px;">](https://github.com/DevanshSingh23)     |
 | 200353  | Divyansh Patel                | [Resume](https://drive.google.com/file/d/1mvGPpuJotvn-PSo2O9PnbHiB-845yiwe/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/pdivyansh20" width="50px;">](https://github.com/pdivyansh20)           |
 | 200363  | Farukh Khan                   |                                                                                                | [<img src="https://avatars.githubusercontent.com/farukh20" width="50px;">](https://github.com/farukh20)                 |
@@ -48,7 +48,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 190467  | Mahaveer Bana                 | [Resume](https://drive.google.com/file/d/1QJM7MvKEM5WnEhPzbj1UYwx9M5MlMT7v/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/mvbana" width="50px;">](https://github.com/mvbana)                     |
 | 200557  | Mandvi Rajpoot                | [Resume](https://drive.google.com/file/d/1PqsI74KCtEGDm0CZEEtwLK6gSKK_6p8o/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Mandvi-tech" width="50px;">](https://github.com/Mandvi-tech)           |
 | 190513  | Mridul Khare                  |                                                                                                | [<img src="https://avatars.githubusercontent.com/" width="50px;">](https://github.com/)                                 |
-| 200623  | Narendra Jugalkishor Prajapat | [Resume](https://drive.google.com/file/d/1TyEPpZjNkqFE5lxGvXP81roArF4AM7-9/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/nprajapat20" width="50px;">](https://github.com/nprajapat20)           |
+| 200623  | Narendra Jugalkishor Prajapat | [Resume](https://drive.google.com/file/d/1r5nQ85If6r-4BVNuspXiNGi-VxZIPeX_/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/nprajapat20" width="50px;">](https://github.com/nprajapat20)           |
 | 190542  | Neeraj Pratap Singh           | [Resume](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/neeraj00x" width="50px;">](https://github.com/neeraj00x)               |
 | 200379  | Nikhil Singh                  | [Resume](https://drive.google.com/file/d/1F1tyQndbAyLrQaIEiACz83XO9nRc8r7W/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/snikhil20" width="50px;">](https://github.com/snikhil20)               |
 | 200644  | Nishant Triparthi             | [Resume](https://drive.google.com/file/d/1jnfTd-BuGy_VtPV9W-YPWiEFNcrdB-CP/view?usp=drivesdk)  | [<img src="https://avatars.githubusercontent.com/trinish11" width="50px;">](https://github.com/snikhil20)               |
@@ -66,7 +66,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 201167  | Tejas Uttam Warade            | [Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Tejasuwarade" width="50px;">](https://github.com/Tejasuwarade)         |
 | 190962  | Vijay Kumar Chauhan           | [Resume](https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/vijaykc962" width="50px;">](https://github.com/vijaykc962)             |
 | 190990  | Vivek Singh Rajawat           | [Resume](https://drive.google.com/file/d/1lsvC2RLoMRpqpQKE48TOpMHytUsInLpt/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/vrajawat" width="50px;">](https://github.com/vrajawat)                 |
-| 201118  | Vikas Varshney                | [Resume](https://drive.google.com/file/d/1B19lvUZuHajOzPiMGcVfmUG00Qih7K79/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Vikas-code-ux" width="50px;">](https://github.com/Vikas-code-ux)       |
+| 201118  | Vikas Varshney                | [Resume](https://drive.google.com/file/d/1ILtPVm-Kg8rLMmWJCxoIsKaKSErkXKFA/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Vikas-code-ux" width="50px;">](https://github.com/Vikas-code-ux)       |
 | 201137  | Yasvir Singh                  | [Resume](https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/" width="50px;">](https://github.com/)                                 |
 | 201170  | Yuvraj Mimrot                 | [Resume](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/YuvrajMimrotZaki" width="50px;">](https://github.com/YuvrajMimrotZaki) |
 | 201171  | Yuvraj Singh                  | [Resume](https://drive.google.com/file/d/1VdjtgLpIlk64ap9_5OOr8rnsYKkd4fBc/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Yuvraj1171" width="50px;">](https://github.com/Yuvraj1171)             |
@@ -89,7 +89,9 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
 ## Project Members
 
-- Chinmay Joshi (200299) https://drive.google.com/file/d/1mJV2DacQmAwdDuxxEXZtW-eNvb9irxPd/view?usp=sharing
+- Chinmay Joshi (200299) 
+  > I am currently a second year B. Tech. student in the Civil engineering department at IIT Kanpur.
+  > Google drive link to my [resume](https://drive.google.com/file/d/1QpBcqZU_ECoez4-xH7hE15jNAJUWzutm/view?usp=sharing).
 
 - Pankaj bairwa (190585) (https://drive.google.com/file/d/1dGCd8Y2NfJnbfV1vM1ZO56hE1S-06FUU/view?usp=sharing)
 
@@ -228,4 +230,5 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 - Shivam Mishra (200937) [Resume](https://drive.google.com/drive/folders/11WxghEmsOtTBgz1ZI6dgKJFHAW8RzRGB?usp=sharing)
 
 - Ayushi Singh (200258) [Resume](https://drive.google.com/drive/folders/1XR9t1ss_uFnlrF-ehFulsnOHENvXFzps?usp=sharing)
+</a>
 
