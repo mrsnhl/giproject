@@ -232,5 +232,4 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
 - Ayushi Singh (200258) [Resume](https://drive.google.com/drive/folders/1XR9t1ss_uFnlrF-ehFulsnOHENvXFzps?usp=sharing)
 </a>
-Smriti Tripathi(200988) <a href="https://drive.google.com/file/d/1IPB3j4w5u9_JkPtPNpVCAqaZ_PHzG2Pt/view?usp=sharing"><em>My Credibility</em></a>
-
+- Smriti Tripathi(200988) <a href="https://drive.google.com/file/d/1IPB3j4w5u9_JkPtPNpVCAqaZ_PHzG2Pt/view?usp=sharing"><em> My Credibility </em></a>
