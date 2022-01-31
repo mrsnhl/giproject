@@ -64,6 +64,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 200930  | Sheshank                      | [Resume](https://drive.google.com/file/d/1Gv48voubAl9lH-iznfhvQXjhwEqCJLpS/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/The-Avi" width="50px;">](https://github.com/The-Avi)                   |
 | 200937  | Shivam Mishra                      | [Resume](https://drive.google.com/drive/folders/11WxghEmsOtTBgz1ZI6dgKJFHAW8RzRGB?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/7shivamx" width="50px;">](https://github.com/7shivamx)                   |
 | 200969  | Shubham Kumar                 | [Resume](https://drive.google.com/file/d/1Cum9KFMbGo7Xc9UY7r-B4_qsBGC2TvRl/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Shubham-707" width="50px;">](https://github.com/Shubham-707)           |
+| 200988  | Smriti Tripathi               | [Resume](https://drive.google.com/file/d/1IPB3j4w5u9_JkPtPNpVCAqaZ_PHzG2Pt/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Smriti-Tripathi-19" width="50px;">](https://github.com/Smriti-Tripathi-19)         |
 | 201167  | Tejas Uttam Warade            | [Resume](https://drive.google.com/file/d/1LKImamNsgqJ5UtPV_uhCzL8JgQi9v-TI/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Tejasuwarade" width="50px;">](https://github.com/Tejasuwarade)         |
 | 190962  | Vijay Kumar Chauhan           | [Resume](https://drive.google.com/file/d/1g70U5FN5xA_UcSogscn2iCDxeWvtUHNZ/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/vijaykc962" width="50px;">](https://github.com/vijaykc962)             |
 | 190990  | Vivek Singh Rajawat           | [Resume](https://drive.google.com/file/d/1lsvC2RLoMRpqpQKE48TOpMHytUsInLpt/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/vrajawat" width="50px;">](https://github.com/vrajawat)                 |
@@ -231,5 +232,6 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 - Shivam Mishra (200937) [Resume](https://drive.google.com/drive/folders/11WxghEmsOtTBgz1ZI6dgKJFHAW8RzRGB?usp=sharing)
 
 - Ayushi Singh (200258) [Resume](https://drive.google.com/drive/folders/1XR9t1ss_uFnlrF-ehFulsnOHENvXFzps?usp=sharing)
-</a>
+
 - Smriti Tripathi(200988) <a href="https://drive.google.com/file/d/1IPB3j4w5u9_JkPtPNpVCAqaZ_PHzG2Pt/view?usp=sharing"><em> My Credibility </em></a>
+</a>
