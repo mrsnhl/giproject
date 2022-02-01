@@ -62,13 +62,6 @@ This was created by students of Y19 and Y20 of Civil Engineering
 
 - Yuvraj Mimrot (Zaki) (201170)
   [resume drive link](https://drive.google.com/file/d/17FZWgH0-5KEvVzUK3ZAulg3bw4zoXewG/view?usp=sharing)
-  <details><summary>About</summary>
-
-    1. Sophomore , IITK'24
-    2. CE
-    3. Loves to watch Anime
-
-  </details>
 
 - Ayush Agrawal (200236)
 
@@ -89,7 +82,7 @@ This was created by students of Y19 and Y20 of Civil Engineering
 - Shubham Kumar (200969)
 
 - Neeraj Pratap Singh (190542) [Resume Link](https://drive.google.com/file/d/1p9GfxqEAnh_SqRimSOJG6BmtRxdLhzyl/view?usp=sharing)
-
+-
 - Mridul Khare (190513)
 
 - [Riya Banik (200809)] (https://drive.google.com/file/d/1LCjo1HjDxm26GbAfJC5ApistPhlijgce/view?usp=sharing)
