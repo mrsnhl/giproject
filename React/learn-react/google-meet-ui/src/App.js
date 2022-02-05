@@ -1,13 +1,45 @@
 import React from 'react';
 
-function Inside() {
-    return(<div>We are inside App</div>);
-}
+let people = [
+    {
+        name: 'Snehil',
+        email: 'snehilsaluja@gmail.com',
+        isMuted: false
+    },
+    {
+        name: 'Chinmay',
+        email: 'chinmayj20@iitk.ac.in',
+        isMuted: true
+    },
+    {
+        name: 'Vikas',
+        email: 'vikashv20@iitk.ac.in',
+        isMuted: true
+    },
+    {
+        name: 'Ayush',
+        email: 'aayush20@iitk.ac.in',
+        isMuted: true
+    }
+];
 
-export default function App() {
+function printName(obj) {
     return(
         <div>
-            <Inside />
+        <div>{obj.name}</div>
+        <div>{obj.email}</div>
         </div>
     )
 }
+
+function App() {
+    return(
+        <div id="allNames">
+            {
+                people.map(printName)
+            }
+        </div>
+    )
+}
+
+export default App;
