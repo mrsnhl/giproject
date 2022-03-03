@@ -1,0 +1,55 @@
+<html>
+
+<head>
+    <title>factorial of a number </title>
+    <!-- <script src="chandramani.js"></script> -->
+    <style>
+        #ans {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body style="background-color: indigo;">
+    <div style="text-align:center;font-size: 30px;font-style: inherit;font-family: 'Times New Roman', Times, serif;">
+       <div style="text-decoration-color: red;text-decoration: greenyellow;"> <label>enter the number </label></div>
+        <input id="num" type="number">
+        </input>
+        <br>
+        <br>
+    </div>
+    <div style="text-align: center;font-size: 60px;font-display:rgb(10, 10, 223);">
+        <button onclick="findfac()">
+            Calculate the factorial
+        </button>
+    </div>
+    <br />
+    <div id="ans">
+    </div>
+</body>
+
+
+<script>
+    function factorial(n) {
+        if(n<0){
+            greeting="input is invalid for factorial operation ";
+            }
+            else if(n>=0){
+        
+        let temp = 1;
+        for (let i = 1; i <= n; i++) {
+            temp = temp * i;
+        }
+    
+        return temp;
+    }
+    }
+
+    function findfac() {
+        let inp = document.getElementById("num").value;
+        let res = factorial(inp);
+        document.getElementById("ans").innerHTML = `<div> <div>` + res + `</div></div>`;
+    }
+</script>
+
+</html>

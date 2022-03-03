@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<head>
+  <style>
+    #heading {
+      text-align: center;
+      font-size: xx-large;
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial;
+    }
+    #sum {
+      background-color: lightgrey;
+      width: 97%;
+      border: 2px solid green;
+      padding: 12px 20px;
+      text-align: left;
+    }
+
+    body {
+      background-color: lightblue;
+      font-family: Verdana, sans-serif;
+    }
+
+    input[type="text"],
+    select {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+    }
+
+    input[type="button"] {
+      width: 100%;
+      background-color: #4caf50;
+      color: whitesmoke;
+      font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    input[type="button"]:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <div id="heading">ADDITION</div>
+  <div>
+    <form>
+      <label for="num_1">NUMBER 1</label>
+      <input
+        type="text"
+        id="num_1"
+        name="firstnum"
+        placeholder="Enter first number.."
+      />
+
+      <label for="number_2">NUMBER 2</label>
+      <input
+        type="text"
+        id="num_2"
+        name="secnum"
+        placeholder="Enter second number.."
+      />
+
+      <input type="button" value="ADD" onclick="add()" />
+    </form>
+  </div>
+
+  <div id="sum">RESULT</div>
+</body>
+
+<script>
+  function add() {
+    var n1 = document.getElementById("num_1").value;
+    var n2 = document.getElementById("num_2").value;
+    for (let i = 0; i < n1.length; i++)
+      if (n1[i] < "0" || n1[i] > "9") {
+        document.getElementById("sum").innerHTML =
+          "Input text is a string. Pls enter integer";
+        return 0;
+      }
+    for (let i = 0; i < n2.length; i++)
+      if (n2[i] < "0" || n1[i] > "9") {
+        document.getElementById("sum").innerHTML =
+          "Input text is a string. Pls enter integer";
+        return 0;
+      }
+    n1 = parseInt(n1);
+    n2 = parseInt(n2);
+    var res = n1 + n2;
+    document.getElementById("sum").innerHTML = res;
+
+    return res;
+  }
+</script>

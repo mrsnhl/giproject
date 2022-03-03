@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title>factorial of a number </title>   
+    </head>
+    <body>
+        <div style="text-align:center;font-size: 30px;font-style: inherit;font-family: 'Times New Roman', Times, serif;">
+            <label >enter the number </label> 
+            <input id="num" type="number">
+            </input>
+            <br>
+            <br>
+        </div>
+        <div style="text-align: center;font-size: 60px;font-display:rgb(10, 10, 223);">
+            <button onclick="findfac()">
+                Calculate
+            </button>
+        </div>
+        <br/>
+        <div id ="ans">
+        </div>
+    </body>
+
+    <script>
+        function factorial(n)
+        let temp=1;
+        {
+            for(let i=1;i<=n;i++)
+            {
+                temp=temp*i;
+            }
+            return temp;
+        };
+        function findfac()
+        {
+            let inp=document.getElementById("num").value;
+            let res=factorial(inp);
+            document.getElementById("ans").innerHTML = `<div> <div>` + res  + `</div></div>`;
+        }
+    </script>
+</html>
