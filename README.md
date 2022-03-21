@@ -71,7 +71,7 @@ This was created by Y19 and Y20 students in the Civil Engineering Department of 
 | 201118  | Vikas Varshney                | [Resume](https://drive.google.com/file/d/1ILtPVm-Kg8rLMmWJCxoIsKaKSErkXKFA/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Vikas-code-ux" width="50px;">](https://github.com/Vikas-code-ux)       |
 | 201137  | Yasvir Singh                  | [Resume](https://drive.google.com/file/d/1hxgg8y24ZkdCXbHRNIlOVRY3yFZqDQxw/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/" width="50px;">](https://github.com/)                                 |
 | 201170  | Yuvraj Mimrot                 | [Resume](https://drive.google.com/file/d/17b0GO3KPtvAK-nMBsgCBSiv76lLwjfUj/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/YuvrajMimrotZaki" width="50px;">](https://github.com/YuvrajMimrotZaki) |
-| 201171  | Yuvraj Singh                  | [Resume](https://drive.google.com/file/d/12vCwEx5GtTkbTpnoIxp4BOcThwB_CynV/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Yuvraj1171" width="50px;">](https://github.com/Yuvraj1171)             |
+| 201171  | Yuvraj Singh                  | [Resume](https://drive.google.com/file/d/1GMAVgICkE66t963rNREUppAHYZmkUCNl/view?usp=sharing)   | [<img src="https://avatars.githubusercontent.com/Yuvraj1171" width="50px;">](https://github.com/Yuvraj1171)             |
 
 ## 💻 Contributors
 
