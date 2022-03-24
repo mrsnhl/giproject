@@ -156,7 +156,6 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
   > I am Second year Undergraduate , IIT kanpur. I am pursuing Civil Engineering .
   > I Love to play badminton, cycle, watch movies and play video games.
-  > Currrently I am Doing GI project .
 
 - Nitin Jangir(190568)
 
