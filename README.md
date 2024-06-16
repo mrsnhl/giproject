@@ -144,10 +144,6 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 - Yuvraj Mimrot 
   <details><summary>About</summary>
 
-  1. Sophomore , IITK'24
-  2. CE
-  3. Loves to watch Anime
-
   </details>
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1uB4tKSDd4G1M1djiE5XxPD8EEEG0kYp3/view?usp=sharing)
