@@ -141,9 +141,6 @@ This was created by students of Y19 and Y20 of Civil Engineering. Currently 80 s
 
 - Anshul Agarwal(200152)
 
-- Yuvraj Mimrot 
-  <details><summary>About</summary>
-
   </details>
 
 - Ayush Agrawal (200236) [My resume](https://drive.google.com/file/d/1uB4tKSDd4G1M1djiE5XxPD8EEEG0kYp3/view?usp=sharing)
